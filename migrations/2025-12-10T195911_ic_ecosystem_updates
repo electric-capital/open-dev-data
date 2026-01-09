@@ -39,7 +39,6 @@ repadd "Internet Computer" https://github.com/hshadab/kinic-monad-poc
 repadd "Internet Computer" https://github.com/sentiumsdk/sentium-bridge
 repadd "Internet Computer" https://github.com/iamjuampi/dropslandxsol
 repadd "Internet Computer" https://github.com/lmayor28/-experience-motoko
-repadd "Internet Computer" https://github.com/jonathanbelolo/composable-rust
 repadd "Internet Computer" https://github.com/thrower336/my_project
 repadd "Internet Computer" https://github.com/bigxiang/ic-payx
 repadd "Internet Computer" https://github.com/triyan-salazar/test-with.ipc
@@ -69,9 +68,6 @@ repadd "Internet Computer" https://github.com/fradiumofficial/ai
 repadd "Internet Computer" https://github.com/networkprotocol/eliza
 reprem "Internet Computer" https://github.com/ICTO-Labs/icto_v2
 repadd "Internet Computer" https://github.com/abya-university/abya-passport
-repadd "Juno" https://github.com/junobuild/observatory-templates
-ecocon "Internet Computer" "Juno"
-reprem "Internet Computer" https://github.com/junobuild/observatory-templates
 repadd "Internet Computer" https://github.com/reputation-dao/repdao-cli-sdk
 repadd "Internet Computer" https://github.com/brooklynxyz/ghala
 repadd "Internet Computer" https://github.com/icme-lab/kinic-cli
