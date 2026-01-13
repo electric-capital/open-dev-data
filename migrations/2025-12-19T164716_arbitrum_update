@@ -333,3 +333,7 @@ repadd Arbitrum https://github.com/ichifarm/assets
 repadd Arbitrum https://github.com/ichifarm/hardhat-framework
 repadd Arbitrum https://github.com/Impermax-Finance/impermax-x-uniswap-v2-interface
 repadd Arbitrum https://github.com/infinit-xyz/infinit-cli
+ecoadd Ostium
+ecocon Arbitrum Ostium
+repadd Arbitrum https://github.com/0xOstium/ostium-python-sdk
+
