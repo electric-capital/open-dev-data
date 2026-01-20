@@ -24,12 +24,10 @@ repadd XRP https://github.com/AfuroIsCrazy/rippled-historical-database
 repadd XRP https://github.com/AgroSmart-Contracts/XRPL-Architecture
 repadd XRP https://github.com/Aithor-organization/XRPLhackathon
 repadd XRP https://github.com/AlexanderBuzz/xrpl-dev-desktop-wallet
-repadd XRP https://github.com/AlexandrVLD/Downloads
 repadd XRP https://github.com/AliAli2320/validator-keys-tool
 repadd XRP https://github.com/AmitMirgal/xrpld-hooks
 repadd XRP https://github.com/AndrewVV/ripple-lib
 repadd XRP https://github.com/Argzero/core-dev-bootcamp-2025
-repadd XRP https://github.com/Aullus/duxfund-front-end
 repadd XRP https://github.com/AyAggarwal/xrp-api
 repadd XRP https://github.com/BRTNetwork/brtd-historical-database
 repadd XRP https://github.com/Beriya73/XRPL_executor
@@ -142,9 +140,7 @@ repadd XRP https://github.com/MrDecryptDecipher/xrpl-institutional-fund-manageme
 repadd XRP https://github.com/MrKrabb69/tipX
 repadd XRP https://github.com/MustardseedX/api
 repadd XRP https://github.com/MustardseedX/clio-packages
-repadd XRP https://github.com/MustardseedX/docker
 repadd XRP https://github.com/MustardseedX/sFieldRegistry
-repadd XRP https://github.com/MustardseedX/wasi-libc
 repadd XRP https://github.com/MustardseedX/xrpl.ws-stats.com-Frontend
 repadd XRP https://github.com/MustardseedX/xrpld-debug-stream
 repadd XRP https://github.com/MyrkleApp/myrkle-xrpl
@@ -275,7 +271,6 @@ repadd XRP https://github.com/XRPL-Commons/xrpl-training-2025-may
 repadd XRP https://github.com/XRPL-Commons/xrpl-training-2025-september
 repadd XRP https://github.com/XRPL-Commons/xrpl-training-april-2024
 repadd XRP https://github.com/XRPL-Commons/xrpl-training-june-2024
-repadd XRP https://github.com/XRPL-Labs/AspNet.Security.OAuth.Providers
 repadd XRP https://github.com/XRPL-Labs/crypto-ecosystems
 repadd XRP https://github.com/XRPL-Labs/katacoda-scenarios
 repadd XRP https://github.com/XRPL-Labs/ledger-live-common
@@ -378,7 +373,6 @@ repadd XRP https://github.com/cmattoon/validator-keys-tool
 repadd XRP https://github.com/connor-mckee-antithesis/rippled-workload
 repadd XRP https://github.com/cppmili/rippled-historical-database
 repadd XRP https://github.com/crossmarkio/.github
-repadd XRP https://github.com/crossmarkio/beta
 repadd XRP https://github.com/crossmarkio/node
 repadd XRP https://github.com/crossmarkio/starters
 repadd XRP https://github.com/crossmarkio/xrpl.js
@@ -390,7 +384,6 @@ repadd XRP https://github.com/dawn-island/xrpld-hooks
 repadd XRP https://github.com/desimmons/gemwallet-extension
 repadd XRP https://github.com/devdattanarawade97/xrpl-blockchain
 repadd XRP https://github.com/dheerajaj/XRPL-Wallet-NFT-in-JS
-repadd XRP https://github.com/dhruvmalik007/xrpl_haks_hackathon_project
 repadd XRP https://github.com/diahpradana/opensource.ripple.com
 repadd XRP https://github.com/dorman/gemwallet-extension
 repadd XRP https://github.com/drazpa/RLUSDRAMP
@@ -462,7 +455,6 @@ repadd XRP https://github.com/interc0der/Xumm-Universal-SDK
 repadd XRP https://github.com/interc0der/rippled-historical-database
 repadd XRP https://github.com/interc0der/xrpl-example
 repadd XRP https://github.com/interc0der/xrpl-graph
-repadd XRP https://github.com/iricehasan/XRPL-txlog-decoder
 repadd XRP https://github.com/isuncoin/ripple-data-api
 repadd XRP https://github.com/itsjesusmacias/xrp-ledger-explorer
 repadd XRP https://github.com/itsocialist/xrpl-yield-intel
@@ -502,7 +494,6 @@ repadd XRP https://github.com/kyaog64345847/xrpl.js
 repadd XRP https://github.com/lakerwiz/hbase-client
 repadd XRP https://github.com/lefreud/ripple-paper-wallet
 repadd XRP https://github.com/legleux/clio-packages
-repadd XRP https://github.com/legleux/docker
 repadd XRP https://github.com/legleux/rippled-workload
 repadd XRP https://github.com/legleux/validator-keys-tool
 repadd XRP https://github.com/legleux/xrplf-actions
@@ -518,7 +509,6 @@ repadd XRP https://github.com/luvnft/XRPL-NFT-Asset
 repadd XRP https://github.com/luvnft/xrpl-nft-autominter
 repadd XRP https://github.com/luvnft/xrpl-nft-mint
 repadd XRP https://github.com/luvnft/xrplnft-
-repadd XRP https://github.com/lvc-cld/xrpl-nft-storage
 repadd XRP https://github.com/mDuo13/ripple-data-api
 repadd XRP https://github.com/mahiros-tech/rippled-historical-database
 repadd XRP https://github.com/mahiros-tech/xrpl-api
@@ -604,21 +594,13 @@ repadd XRP https://github.com/realgrapedrop/xrpl-validator-dashboard
 repadd XRP https://github.com/reclaimprotocol/reclaim-xrpl-example
 repadd XRP https://github.com/ride-space/xrp-wallet-example
 repadd XRP https://github.com/rikublock/gemwallet-extension
-repadd XRP https://github.com/ripple/chef-client
-repadd XRP https://github.com/ripple/chef-os-hardening
 repadd XRP https://github.com/ripple/clio-tools
 repadd XRP https://github.com/ripple/docker-fdb-server
-repadd XRP https://github.com/ripple/mkrepo
 repadd XRP https://github.com/ripple/payments-direct
-repadd XRP https://github.com/ripple/react-stockcharts
 repadd XRP https://github.com/ripple/rippled-gha-test
 repadd XRP https://github.com/ripple/rippled-workload
 repadd XRP https://github.com/ripple/ripplex-research
-repadd XRP https://github.com/ripple/salt-formula-prometheus
-repadd XRP https://github.com/ripple/salt-pillar-kvdn
-repadd XRP https://github.com/ripple/sequelize
 repadd XRP https://github.com/ripple/wamr-rust-sdk
-repadd XRP https://github.com/ripple/wasm-micro-runtime
 repadd XRP https://github.com/ripple/xrpl-vl-tool
 repadd XRP https://github.com/ripple/xrpl-wasm-stdlib
 repadd XRP https://github.com/ripple/xrpldotorg-redocly-migration-poc
