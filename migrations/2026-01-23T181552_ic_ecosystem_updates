@@ -98,8 +98,6 @@ repadd "Internet Computer" https://github.com/smart-social-contracts/kybra-simpl
 repadd "Internet Computer" https://github.com/octopus-network/richswap-frontend
 repadd "Internet Computer" https://github.com/lain-corp/laincorp-com
 repadd "Internet Computer" https://github.com/ldclabs/1paying
-repadd "Juno" https://github.com/junobuild/observatory-templates
-ecocon "Internet Computer" "Juno"
 repadd "Internet Computer" https://github.com/brooklynxyz/degenforge
 repadd "Internet Computer" https://github.com/icme-lab/blackhole-token-burner
 repadd "zCloak Network" https://github.com/zcloak-network/zcloak-ai-mcp-service
