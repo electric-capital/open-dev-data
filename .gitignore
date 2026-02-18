@@ -22,3 +22,10 @@ zig-out/
 
 __pycache__
 *.egg-info/
+.pythonlibs/
+*.pyc
+dist/
+build/
+.venv/
+*.egg
+.pytest_cache/

@@ -1,0 +1,29 @@
+modules = ["bash", "python-base-3.13"]
+[agent]
+expertMode = true
+
+[nix]
+channel = "stable-25_05"
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Open Dev Data CLI"
+
+[[workflows.workflow]]
+name = "Open Dev Data CLI"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd /home/runner/workspace && uv run open-dev-data --help"
+
+[workflows.workflow.metadata]
+outputType = "console"
