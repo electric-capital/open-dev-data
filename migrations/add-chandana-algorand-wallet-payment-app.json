@@ -1,0 +1,8 @@
+{
+  "ecosystem": "algorand",
+  "repos": [
+    {
+      "url": "https://github.com/Chandana0911/algorand-wallet-payment-app"
+    }
+  ]
+}
