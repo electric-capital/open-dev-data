@@ -1,7 +1,9 @@
 ecoadd "New Festival Town"
-repadd "New Festival Town" https://github.com/AsharaStudios
+repadd "New Festival Town" https://github.com/AsharaStudios/New-Festival-Town
+repadd "New Festival Town" https://github.com/AsharaStudios/nft-web
+repadd "New Festival Town" https://github.com/AsharaStudios/NewFestivalTown-IAPersonalities
 ecoadd "PredP.red"
-repadd "PredP.red" https://github.com/PredPred-HQ/
+repadd "PredP.red" https://github.com/PredPred-HQ/PredPred-HQ
 ecoadd "Sakura Nexus"
 repadd "Sakura Nexus" https://github.com/EvanKuo2212/sakura-nexus
 ecoadd "Nitro Machines"
