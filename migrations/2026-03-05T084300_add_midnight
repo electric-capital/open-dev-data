@@ -1,0 +1,118 @@
+-- Add Midnight as a new ecosystem
+ecoadd Midnight
+
+-- Core infrastructure
+repadd Midnight https://github.com/midnightntwrk/midnight-node
+repadd Midnight https://github.com/midnightntwrk/midnight-node-docker
+repadd Midnight https://github.com/midnightntwrk/midnight-node-cli
+repadd Midnight https://github.com/midnightntwrk/midnight-ledger
+repadd Midnight https://github.com/midnightntwrk/midnight-zk
+repadd Midnight https://github.com/midnightntwrk/midnight-indexer
+
+-- SDKs and tooling
+repadd Midnight https://github.com/midnightntwrk/midnight-js
+repadd Midnight https://github.com/midnightntwrk/midnight-sdk
+repadd Midnight https://github.com/midnightntwrk/midnight-wallet
+repadd Midnight https://github.com/midnightntwrk/midnight-wallet-dapp
+repadd Midnight https://github.com/midnightntwrk/midnight-dapp-connector-api
+repadd Midnight https://github.com/midnightntwrk/midnight-local-dev
+repadd Midnight https://github.com/midnightntwrk/create-mn-app
+
+-- Compact language
+repadd Midnight https://github.com/midnightntwrk/compact
+repadd Midnight https://github.com/LFDT-Minokawa/compact
+repadd Midnight https://github.com/midnightntwrk/compact-tree-sitter
+repadd Midnight https://github.com/midnightntwrk/compact-zed
+repadd Midnight https://github.com/midnightntwrk/setup-compact-action
+
+
+-- Example DApps
+repadd Midnight https://github.com/midnightntwrk/example-bboard
+repadd Midnight https://github.com/midnightntwrk/example-counter
+repadd Midnight https://github.com/midnightntwrk/example-kitties
+repadd Midnight https://github.com/midnightntwrk/example-zkloan
+repadd Midnight https://github.com/midnightntwrk/example-hello-world
+repadd Midnight https://github.com/midnightntwrk/example-dex
+repadd Midnight https://github.com/midnightntwrk/midnight-dust-generator
+repadd Midnight https://github.com/midnightntwrk/onchain-agents-a2a
+
+
+-- Docs, governance, community
+repadd Midnight https://github.com/midnightntwrk/midnight-docs
+repadd Midnight https://github.com/midnightntwrk/midnight-architecture
+repadd Midnight https://github.com/midnightntwrk/midnight-improvement-proposals
+repadd Midnight https://github.com/midnightntwrk/contributor-hub
+repadd Midnight https://github.com/midnightntwrk/midnight-awesome-dapps
+repadd Midnight https://github.com/midnightntwrk/night-token-distribution
+
+-- Team repos
+repadd Midnight https://github.com/Olanetsoft/compact-playground
+repadd Midnight https://github.com/Olanetsoft/midnight-mcp
+repadd Midnight https://github.com/Olanetsoft/hello-world-compact
+repadd Midnight https://github.com/Olanetsoft/learn-compact
+repadd Midnight https://github.com/Olanetsoft/compact-by-example
+repadd Midnight https://github.com/riusricardo/midnight-contracts
+
+-- Community repos
+repadd Midnight https://github.com/eddalabs/midnight-starter-template
+repadd Midnight https://github.com/Techgethr/midnightpy
+repadd Midnight https://github.com/kaleababayneh/scaffold-midnight
+repadd Midnight https://github.com/lamg/wybe
+repadd Midnight https://github.com/AIQUANT-Tech/explorer
+repadd Midnight https://github.com/semsorock/midnight-indexer
+repadd Midnight https://github.com/Midnight-Scripts/Midnight-Live-View
+repadd Midnight https://github.com/bytewizard42i/MidnightForge
+repadd Midnight https://github.com/mediocrehacker/Midnightscan
+repadd Midnight https://github.com/0xstrong/midnight-mnn-helm
+repadd Midnight https://github.com/nicolasLuduena/2025-hackathon-midnight
+repadd Midnight https://github.com/OpenZeppelin/midnight-apps
+repadd Midnight https://github.com/OpenZeppelin/compact-contracts
+repadd Midnight https://github.com/eryxcoop/midnauction
+repadd Midnight https://github.com/bytewizard42i/SilentLedger
+repadd Midnight https://github.com/statera-protocol/statera-protocol-midnight
+repadd Midnight https://github.com/luislucena16/tokenless
+repadd Midnight https://github.com/HeikkiRuhanen/ethiopian-identity-wallet
+repadd Midnight https://github.com/laughtt/face-recognition-midnight
+repadd Midnight https://github.com/midnames/core
+repadd Midnight https://github.com/bytewizard42i/SentinelDID-poc
+repadd Midnight https://github.com/kevan1/kyc-midnight-hackathon
+repadd Midnight https://github.com/codeBigInt/fundagoal
+repadd Midnight https://github.com/armsves/midnightVotingW3PN
+repadd Midnight https://github.com/joacolinares/kyc-midnight
+repadd Midnight https://github.com/FranZavalla/midnight-ui
+repadd Midnight https://github.com/statera-protocol/hydra-stake-protocol
+repadd Midnight https://github.com/0xshae/midnight-playground
+repadd Midnight https://github.com/bochaco/dmarket
+repadd Midnight https://github.com/Edgxtech/pdm-demo-app
+repadd Midnight https://github.com/dinhminhlhs/midnight-explorer-v0
+repadd Midnight https://github.com/foxytanuki/compact-vscode
+repadd Midnight https://github.com/jsierrax/Haiti-Telemed
+repadd Midnight https://github.com/hbrazier01/Airlog
+repadd Midnight https://github.com/carthagexlabs/zk-tanit-id
+repadd Midnight https://github.com/mediocrehacker/midnight-battleship
+repadd Midnight https://github.com/eddex/midnight-sea-battle-hackathon
+repadd Midnight https://github.com/tusharpamnani/midnight-escrow
+repadd Midnight https://github.com/Tech-Expansion/midnight-explorer-web
+repadd Midnight https://github.com/subc0der/MaskID 
+repadd Midnight https://github.com/microbecode/zk-languages
+repadd Midnight https://github.com/nel349/midnight-bank
+repadd Midnight https://github.com/nel349/zkSalaria
+repadd Midnight https://github.com/nel349/midnight-wallet-cli-hub
+repadd Midnight https://github.com/nel349/midnight-wallet
+repadd Midnight https://github.com/nel349/MidnightDrive
+repadd Midnight https://github.com/nel349/midnight-mobile-connector
+repadd Midnight https://github.com/nel349/midnight-pay
+repadd Midnight https://github.com/jungmyeong96/midnight_tutorial
+repadd Midnight https://github.com/SundaeSwap-finance/midnight-examples
+repadd Midnight https://github.com/FractionEstate/midnight-dev-skills
+repadd Midnight https://github.com/SanatKulkarni/CardanoHackathon-int21h
+repadd Midnight https://github.com/bytewizard42i/midnight-starter-template-johns-copy
+
+-- Partner repos
+repadd Midnight https://github.com/bricktowers/midnight-seabattle
+repadd Midnight https://github.com/bricktowers/midnight-proof-server
+repadd Midnight https://github.com/bricktowers/midnight-local-network
+repadd Midnight https://github.com/bricktowers/midnight-identity
+repadd Midnight https://github.com/bricktowers/midnight-rwa
+repadd Midnight https://github.com/fairway-global
+repadd Midnight https://github.com/NextMed-main/Main
