@@ -1,3 +1,19 @@
+-- Midnight Network ecosystem map: initial submission
+--
+-- Methodology
+-- Repos were identified through three sources:
+--   1. Direct outreach to known ecosystem partners and community contributors
+--   2. Midnight Foundation team and staff personal repos
+--   3. GitHub code search for "pragma language_version" (Compact (Midnight DSL) language
+--      marker) 
+--
+-- All repos were reviewed for Midnight relevance before inclusion.
+--
+-- This is Midnight's first EC submission, ahead of mainnet launch.
+-- Additional repos may be submitted in subsequent PRs as the ecosystem grows.
+--
+-- Questions: devrel.team@midnight.foundation
+
 -- Add Midnight as a new ecosystem
 ecoadd Midnight
 
@@ -41,6 +57,9 @@ repadd Midnight https://github.com/Olanetsoft/hello-world-compact
 repadd Midnight https://github.com/Olanetsoft/learn-compact
 repadd Midnight https://github.com/Olanetsoft/compact-by-example
 repadd Midnight https://github.com/riusricardo/midnight-contracts
+repadd Midnight https://github.com/riusricardo/midnight-ledger
+repadd Midnight https://github.com/riusricardo/midnight-kitties
+repadd Midnight https://github.com/riusricardo/midnight-counter-playground
 repadd Midnight https://github.com/nstanford5/compact-example-contracts
 repadd Midnight https://github.com/adamreynolds-io/compact-lsp
 repadd Midnight https://github.com/adamreynolds-io/nightcap
@@ -48,6 +67,12 @@ repadd Midnight https://github.com/claudebarde/compactscript
 repadd Midnight https://github.com/claudebarde/nyx-script
 repadd Midnight https://github.com/claudebarde/solpact
 repadd Midnight https://github.com/claudebarde/sea-battle-midnight
+repadd Midnight https://github.com/Jalal-1/updated_starter_0.1
+repadd Midnight https://github.com/Jalal-1/midnight-ledger
+repadd Midnight https://github.com/Jalal-1/jalal_preview
+repadd Midnight https://github.com/Jalal-1/midnight-counter-app
+repadd Midnight https://github.com/Jalal-1/midnight-election
+repadd Midnight https://github.com/gilescope/midnight-example-applications
 
 -- Ecosystem Partners
 repadd Midnight https://github.com/bricktowers/midnight-seabattle
@@ -55,7 +80,8 @@ repadd Midnight https://github.com/bricktowers/midnight-proof-server
 repadd Midnight https://github.com/bricktowers/midnight-local-network
 repadd Midnight https://github.com/bricktowers/midnight-identity
 repadd Midnight https://github.com/bricktowers/midnight-rwa
-repadd Midnight https://github.com/fairway-global
+repadd Midnight https://github.com/fairway-global/fairway-id-wallet
+repadd Midnight https://github.com/fairway-global/CLI-SSI-to-Midnight
 repadd Midnight https://github.com/NextMed-main/Main
 repadd Midnight https://github.com/OpenZeppelin/midnight-apps
 repadd Midnight https://github.com/OpenZeppelin/compact-contracts
@@ -72,6 +98,7 @@ repadd Midnight https://github.com/nightpay/nightpay
 repadd Midnight https://github.com/no-witness-labs/midday-sdk
 repadd Midnight https://github.com/PaimaStudios/paima-engine
 repadd Midnight https://github.com/PaimaStudios/pvp-arena
+repadd Midnight https://github.com/dcSpark/midnight-ledger
 repadd Midnight https://github.com/pulse-finance/midnight-dex-contract
 repadd Midnight https://github.com/Trivolve-Tech/cardano-midnight-zk-bridge
 repadd Midnight https://github.com/nufi-official/nufi
@@ -84,6 +111,7 @@ repadd Midnight https://github.com/midnames/compact-tree-sitter
 repadd Midnight https://github.com/midnames/deploy-receive-test
 repadd Midnight https://github.com/midnames/hackathon
 repadd Midnight https://github.com/midnames/london-hackathon
+repadd Midnight https://github.com/0xAtelerix/pintent
 
 -- Compact Language Tooling
 repadd Midnight https://github.com/a-osiecki/compact-sc-template
@@ -91,8 +119,6 @@ repadd Midnight https://github.com/aaronbassett/midnight-knowledgebase
 repadd Midnight https://github.com/andrew-fleming/compact-tools
 repadd Midnight https://github.com/diegosouzapw/awesome-omni-skill
 repadd Midnight https://github.com/LTP-Blockchain-Lab/Compact-Tutorial
-repadd Midnight https://github.com/majiayu000/claude-skill-registry
-repadd Midnight https://github.com/majiayu000/claude-skill-registry-data
 repadd Midnight https://github.com/manjeetsharma0796/language_zk_proof_midnight
 repadd Midnight https://github.com/mzf11125/midnight_agent_skills
 repadd Midnight https://github.com/UvRoxx/awesome-midnight
@@ -118,9 +144,6 @@ repadd Midnight https://github.com/foxytanuki/midnight-sandbox
 repadd Midnight https://github.com/EperezOk/midnight-starter
 repadd Midnight https://github.com/JorisZierold/midnight-dapp-template
 repadd Midnight https://github.com/luislucena16/midnight-quick-starter
-repadd Midnight https://github.com/gilescope/midnight-example-applications
-repadd Midnight https://github.com/Jalal-1/updated_starter_0.1
-repadd Midnight https://github.com/riusricardo/midnight-counter-playground
 repadd Midnight https://github.com/solidsnakedev/solidsnakedev.github.io
 repadd Midnight https://github.com/Allreality/midnight-infrastructure
 repadd Midnight https://github.com/finiteloopme/dcentral-labs
@@ -235,7 +258,6 @@ repadd Midnight https://github.com/jsierrax/Haiti-Telemed
 -- Governance & DAOs
 repadd Midnight https://github.com/abdussalam-mustapha/midnight-dao-contract
 repadd Midnight https://github.com/Drop-Table-Users/midnight-elections
-repadd Midnight https://github.com/Jalal-1/midnight-election
 repadd Midnight https://github.com/SamyaDeb/votingdapp-midnight
 repadd Midnight https://github.com/Midnight-OS/MidnightOS
 repadd Midnight https://github.com/Megh2005/midnight-shipment-chain-tracker
@@ -251,9 +273,6 @@ repadd Midnight https://github.com/nelsonmfinda/midnight-examples
 repadd Midnight https://github.com/ShehanSuraweera/midnight-examples
 repadd Midnight https://github.com/VanshDeo/into-the-midnight
 repadd Midnight https://github.com/SamyaDeb/midnight
-repadd Midnight https://github.com/Jalal-1/jalal_preview
-repadd Midnight https://github.com/Jalal-1/midnight-counter-app
-repadd Midnight https://github.com/riusricardo/midnight-kitties
 repadd Midnight https://github.com/jungmyeong96/midnight_tutorial
 repadd Midnight https://github.com/mashharuki/midnight-repo
 repadd Midnight https://github.com/mashharuki/midnight-sample
@@ -297,5 +316,12 @@ repadd Midnight https://github.com/bytewizard42i/midnight-starter-template-johns
 repadd Midnight https://github.com/hbrazier01/Airlog
 repadd Midnight https://github.com/Edgxtech/pdm-demo-app
 repadd Midnight https://github.com/bochaco/dmarket
+repadd Midnight https://github.com/bochaco/midnight-ledger
+repadd Midnight https://github.com/htlabs-xyz/midnight-wallet
 repadd Midnight https://github.com/0xshae/midnight-playground
 repadd Midnight https://github.com/FranZavalla/midnight-ui
+repadd Midnight https://github.com/Nocy-io/nocy-gpu-proof-server
+repadd Midnight https://github.com/Nocy-io/nocy-concurrency
+repadd Midnight https://github.com/Nocy-io/nocy-wallet-extension
+repadd Midnight https://github.com/Nocy-io/nocy-wallet-sidecar
+repadd Midnight https://github.com/Nocy-io/nocy-wallet-indexer
