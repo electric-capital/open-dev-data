@@ -46,3 +46,5 @@ repadd "junobuild" https://github.com/junobuild/api
 repadd "junobuild" https://github.com/junobuild/emulator-playwright
 repadd "Internet Computer" https://github.com/zkp-gaming/currency
 repadd "Internet Computer" https://github.com/omnibazaar/wallet
+repadd "dfinity" https://github.com/dfinity/icp-cli
+repadd "dfinity" https://github.com/dfinity/icp-cli-templates
