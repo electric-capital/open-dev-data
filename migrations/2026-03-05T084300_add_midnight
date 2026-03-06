@@ -35,6 +35,7 @@ repadd Midnight https://github.com/midnightntwrk/compact
 repadd Midnight https://github.com/midnightntwrk/compact-tree-sitter
 repadd Midnight https://github.com/midnightntwrk/compact-zed
 repadd Midnight https://github.com/midnightntwrk/setup-compact-action
+repadd Midnight https://github.com/midnightntwrk/rs-merkle
 repadd Midnight https://github.com/midnightntwrk/example-bboard
 repadd Midnight https://github.com/midnightntwrk/example-counter
 repadd Midnight https://github.com/midnightntwrk/example-kitties
@@ -46,6 +47,7 @@ repadd Midnight https://github.com/midnightntwrk/onchain-agents-a2a
 repadd Midnight https://github.com/midnightntwrk/midnight-docs
 repadd Midnight https://github.com/midnightntwrk/midnight-architecture
 repadd Midnight https://github.com/midnightntwrk/midnight-improvement-proposals
+repadd Midnight https://github.com/midnightntwrk/substrate-telemetry
 repadd Midnight https://github.com/midnightntwrk/contributor-hub
 repadd Midnight https://github.com/midnightntwrk/midnight-awesome-dapps
 repadd Midnight https://github.com/midnightntwrk/night-token-distribution
@@ -56,6 +58,7 @@ repadd Midnight https://github.com/Olanetsoft/midnight-mcp
 repadd Midnight https://github.com/Olanetsoft/hello-world-compact
 repadd Midnight https://github.com/Olanetsoft/learn-compact
 repadd Midnight https://github.com/Olanetsoft/compact-by-example
+repadd Midnight https://github.com/Olanetsoft/equityshield
 repadd Midnight https://github.com/riusricardo/midnight-contracts
 repadd Midnight https://github.com/riusricardo/midnight-ledger
 repadd Midnight https://github.com/riusricardo/midnight-kitties
@@ -73,6 +76,8 @@ repadd Midnight https://github.com/Jalal-1/jalal_preview
 repadd Midnight https://github.com/Jalal-1/midnight-counter-app
 repadd Midnight https://github.com/Jalal-1/midnight-election
 repadd Midnight https://github.com/gilescope/midnight-example-applications
+repadd Midnight https://github.com/JAlbertCode/midnight-tip-jar
+repadd Midnight https://github.com/JAlbertCode/open-vote
 
 -- Ecosystem Partners
 repadd Midnight https://github.com/bricktowers/midnight-seabattle
@@ -98,12 +103,16 @@ repadd Midnight https://github.com/nightpay/nightpay
 repadd Midnight https://github.com/no-witness-labs/midday-sdk
 repadd Midnight https://github.com/PaimaStudios/paima-engine
 repadd Midnight https://github.com/PaimaStudios/pvp-arena
+repadd Midnight https://github.com/PaimaStudios/midnight-game-2
+repadd Midnight https://github.com/PaimaStudios/midnight-wasm-prover
+repadd Midnight https://github.com/PaimaStudios/midnight-impact-rps-example
 repadd Midnight https://github.com/dcSpark/midnight-ledger
 repadd Midnight https://github.com/pulse-finance/midnight-dex-contract
 repadd Midnight https://github.com/Trivolve-Tech/cardano-midnight-zk-bridge
 repadd Midnight https://github.com/nufi-official/nufi
 repadd Midnight https://github.com/ligeroinc/ligero-prover
 repadd Midnight https://github.com/LFDT-Minokawa/compact
+repadd Midnight https://github.com/midnightntwrk/lfdt-project-proposals
 repadd Midnight https://github.com/midnames/core
 repadd Midnight https://github.com/midnames/midnight
 repadd Midnight https://github.com/midnames/midnight-zk
@@ -332,3 +341,13 @@ repadd Midnight https://github.com/Nocy-io/nocy-concurrency
 repadd Midnight https://github.com/Nocy-io/nocy-wallet-extension
 repadd Midnight https://github.com/Nocy-io/nocy-wallet-sidecar
 repadd Midnight https://github.com/Nocy-io/nocy-wallet-indexer
+repadd Midnight https://github.com/cadalt0/midnighttokencontract
+repadd Midnight https://github.com/1momoh/night-trade-bot
+repadd Midnight https://github.com/seyiademola147-netizen/Ademola.github.io
+repadd Midnight https://github.com/MichaelDi555X/midnightntwrk
+repadd Midnight https://github.com/DouglasHoffmann/midnight-js-hml
+repadd Midnight https://github.com/devrelaicom/midnight-local-devnet
+repadd Midnight https://github.com/spo-kissa/mn-explorer-preview
+repadd Midnight https://github.com/spo-kissa/midnight-preview-indexer
+repadd Midnight https://github.com/nite-framework/nite-api
+repadd Midnight https://github.com/subc0der/midnight-cloak
