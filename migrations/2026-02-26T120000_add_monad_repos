@@ -65,11 +65,7 @@ repadd Monad https://github.com/solv-finance/SolvBTC
 repadd Monad https://github.com/KyberNetwork/ks-aggregation-router
 repadd Monad https://github.com/KyberNetwork/kyber-exclusive-amm-sc
 
--- Neverland Money
-repadd Monad https://github.com/Neverland-Money
-
 -- Agora Finance
-repadd Monad https://github.com/agora-finance/layerzero
 repadd Monad https://github.com/agora-finance/stable-swap
 repadd Monad https://github.com/agora-finance/agora-dollar-evm
 repadd Monad https://github.com/agora-finance/contracts
