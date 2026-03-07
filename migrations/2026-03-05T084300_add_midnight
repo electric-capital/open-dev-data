@@ -124,6 +124,7 @@ repadd Midnight https://github.com/midnames/london-hackathon
 repadd Midnight https://github.com/0xAtelerix/pintent
 repadd Midnight https://github.com/0xAtelerix/sdk
 repadd Midnight https://github.com/nymtech/nym
+repadd Midnight https://github.com/AlphaTONCapital/vera-report-midnight-contract
 
 
 -- Compact Language Tooling
@@ -351,3 +352,6 @@ repadd Midnight https://github.com/spo-kissa/mn-explorer-preview
 repadd Midnight https://github.com/spo-kissa/midnight-preview-indexer
 repadd Midnight https://github.com/nite-framework/nite-api
 repadd Midnight https://github.com/subc0der/midnight-cloak
+repadd Midnight https://github.com/BWtake/midnight-research-notes
+repadd Midnight https://github.com/ItzPlausible/cosmic-commons-cooperative
+repadd Midnight https://github.com/MasterChief-010101/midnight-private-counter
