@@ -116,7 +116,9 @@ repadd Midnight https://github.com/midnightntwrk/lfdt-project-proposals
 repadd Midnight https://github.com/midnames/core
 repadd Midnight https://github.com/midnames/midnight
 repadd Midnight https://github.com/midnames/midnight-zk
+repadd Midnight https://github.com/midnames/vc-examples
 repadd Midnight https://github.com/midnames/passport-circuits
+repadd Midnight https://github.com/midnames/sdk
 repadd Midnight https://github.com/midnames/compact-tree-sitter
 repadd Midnight https://github.com/midnames/deploy-receive-test
 repadd Midnight https://github.com/midnames/hackathon
@@ -125,6 +127,7 @@ repadd Midnight https://github.com/0xAtelerix/pintent
 repadd Midnight https://github.com/0xAtelerix/sdk
 repadd Midnight https://github.com/nymtech/nym
 repadd Midnight https://github.com/AlphaTONCapital/vera-report-midnight-contract
+repadd Midnight https://github.com/fireblocks/midnight-glacier-drop-sdk
 
 
 -- Compact Language Tooling
@@ -212,6 +215,7 @@ repadd Midnight https://github.com/abdussalam-mustapha/midnight-mcp
 repadd Midnight https://github.com/bytewizard42i/selectConnect_app_pro
 repadd Midnight https://github.com/datadr1ven/gbc
 repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight
+repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight-compliance
 
 -- Identity & Privacy
 repadd Midnight https://github.com/bytewizard42i/AgenticDID_io_me
