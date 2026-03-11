@@ -51,10 +51,12 @@ repadd Midnight https://github.com/midnightntwrk/substrate-telemetry
 repadd Midnight https://github.com/midnightntwrk/contributor-hub
 repadd Midnight https://github.com/midnightntwrk/midnight-awesome-dapps
 repadd Midnight https://github.com/midnightntwrk/night-token-distribution
+repadd Midnight https://github.com/midnightntwrk/midnight-template-repo
 
 -- Team
 repadd Midnight https://github.com/Olanetsoft/compact-playground
 repadd Midnight https://github.com/Olanetsoft/midnight-mcp
+repadd Midnight https://github.com/Olanetsoft/create-mn-app
 repadd Midnight https://github.com/Olanetsoft/hello-world-compact
 repadd Midnight https://github.com/Olanetsoft/learn-compact
 repadd Midnight https://github.com/Olanetsoft/compact-by-example
@@ -64,8 +66,8 @@ repadd Midnight https://github.com/riusricardo/midnight-ledger
 repadd Midnight https://github.com/riusricardo/midnight-kitties
 repadd Midnight https://github.com/riusricardo/midnight-counter-playground
 repadd Midnight https://github.com/nstanford5/compact-example-contracts
-repadd Midnight https://github.com/adamreynolds-io/compact-lsp
 repadd Midnight https://github.com/adamreynolds-io/nightcap
+repadd Midnight https://github.com/adamreynolds-io/compact-lsp
 repadd Midnight https://github.com/claudebarde/compactscript
 repadd Midnight https://github.com/claudebarde/nyx-script
 repadd Midnight https://github.com/claudebarde/solpact
@@ -76,8 +78,10 @@ repadd Midnight https://github.com/Jalal-1/jalal_preview
 repadd Midnight https://github.com/Jalal-1/midnight-counter-app
 repadd Midnight https://github.com/Jalal-1/midnight-election
 repadd Midnight https://github.com/gilescope/midnight-example-applications
+repadd Midnight https://github.com/gilescope/3d-midnight-map
 repadd Midnight https://github.com/JAlbertCode/midnight-tip-jar
 repadd Midnight https://github.com/JAlbertCode/open-vote
+repadd Midnight https://github.com/devrelaicom/midnight-local-devnet
 
 -- Ecosystem Partners
 repadd Midnight https://github.com/bricktowers/midnight-seabattle
@@ -95,12 +99,15 @@ repadd Midnight https://github.com/OpenZeppelin/compact-tools
 repadd Midnight https://github.com/OpenZeppelin/docs
 repadd Midnight https://github.com/effectstream/block-kart-legends
 repadd Midnight https://github.com/effectstream/docs
+repadd Midnight https://github.com/effectstream/midnight-division
+repadd Midnight https://github.com/meshjs/mesh
 repadd Midnight https://github.com/MeshJS/midnight
 repadd Midnight https://github.com/MeshJS/midnight-contracts
 repadd Midnight https://github.com/MeshJS/midnight-contracts-wizard
 repadd Midnight https://github.com/nftmakerio/midnight-nft-standard
 repadd Midnight https://github.com/nightpay/nightpay
 repadd Midnight https://github.com/no-witness-labs/midday-sdk
+repadd Midnight https://github.com/no-witness-labs/midnight-dapp-template
 repadd Midnight https://github.com/PaimaStudios/paima-engine
 repadd Midnight https://github.com/PaimaStudios/pvp-arena
 repadd Midnight https://github.com/PaimaStudios/midnight-game-2
@@ -169,9 +176,12 @@ repadd Midnight https://github.com/nel349/MidnightDrive
 repadd Midnight https://github.com/nel349/midnight-mobile-connector
 repadd Midnight https://github.com/nel349/midnight-pay
 repadd Midnight https://github.com/nel349/midnight-mobile
+repadd Midnight https://github.com/VictorZ1212/midnight-knowledge-agent
 repadd Midnight https://github.com/bytewizard42i/MidnightForge
 repadd Midnight https://github.com/FractionEstate/midnight-dev-skills
 repadd Midnight https://github.com/FractionEstate/midnight-nextjs-mcp
+repadd Midnight https://github.com/disassembler/midnight-playground
+repadd Midnight https://github.com/sommetlabs/midnight-agent-knowledge-base
 
 -- Finance & DeFi
 repadd Midnight https://github.com/aaronbassett/example-dex
@@ -208,22 +218,35 @@ repadd Midnight https://github.com/nel349/midnight-bank
 repadd Midnight https://github.com/nel349/zkSalaria
 repadd Midnight https://github.com/codeBigInt/fundagoal
 repadd Midnight https://github.com/luislucena16/tokenless
-repadd Midnight https://github.com/bytewizard42i/SilentLedger
 repadd Midnight https://github.com/rintintingoesbrrr/rainfall
 repadd Midnight https://github.com/DEGAorg/midnight-mcp
 repadd Midnight https://github.com/dtutila/midnight-dega
 repadd Midnight https://github.com/abdussalam-mustapha/midnight-mcp
 repadd Midnight https://github.com/bytewizard42i/selectConnect_app_pro
+repadd Midnight https://github.com/bytewizard42i/SilentLedger
 repadd Midnight https://github.com/datadr1ven/gbc
 repadd Midnight https://github.com/fredericosanntana/dpo2u-landing-page
 repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight
 repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight-compliance
 repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight-relayer
+repadd Midnight https://github.com/fredericosanntana/dpo2u-lgpd-kit
+repadd Midnight https://github.com/fredericosanntana/dpo2u-polkadot
+repadd Midnight https://github.com/fredericosanntana/dpo2u-starknet
+repadd Midnight https://github.com/fredericosanntana/tech-writing-portfolio
+repadd Midnight https://github.com/SmallPieceLabs/midnight-tracker
+repadd Midnight https://github.com/dipansrimany2006/midnight-digital-will-claming
+repadd Midnight https://github.com/VanshDeo/Confidential-Will-System
+repadd Midnight https://github.com/snehendu098/midnight-will
+repadd Midnight https://github.com/ax0216/zkswap
+repadd Midnight https://github.com/arpit-jindal-01/nft-auction-private
 
 -- Identity & Privacy
 repadd Midnight https://github.com/bytewizard42i/AgenticDID_io_me
 repadd Midnight https://github.com/bytewizard42i/AgenticDID_io_me_MAIN
 repadd Midnight https://github.com/bytewizard42i/SentinelDID-poc
+repadd Midnight https://github.com/bytewizard42i/SentinelAi_services
+repadd Midnight https://github.com/bytewizard42i/didz-dapp-system
+repadd Midnight https://github.com/bytewizard42i/encryptvault
 repadd Midnight https://github.com/mcoronel814/luminaryID
 repadd Midnight https://github.com/Ei-Sandi/EclipseProof-Poc
 repadd Midnight https://github.com/Ei-Sandi/EclipseProof-Pro
@@ -254,9 +277,11 @@ repadd Midnight https://github.com/shreya50/MidKey
 repadd Midnight https://github.com/laughtt/face-recognition-midnight
 repadd Midnight https://github.com/carthagexlabs/zk-tanit-id
 repadd Midnight https://github.com/subc0der/MaskID
-repadd Midnight https://github.com/bytewizard42i/SentinelAi_services
 repadd Midnight https://github.com/armsves/midnightOpenVote
 repadd Midnight https://github.com/armsves/midnightVotingW3PN
+repadd Midnight https://github.com/SuryaSundarVadali/Midnight-ID
+repadd Midnight https://github.com/mrruby/bar-age-gate
+repadd Midnight https://github.com/K33P-repo/K33P_Smart_Contract
 
 -- Gaming
 repadd Midnight https://github.com/abjalhussain01/Multichain-zkSeabattle-MutiplierBetting
@@ -286,6 +311,9 @@ repadd Midnight https://github.com/Megh2005/midnight-shipment-chain-tracker
 repadd Midnight https://github.com/solkem/edgechain
 repadd Midnight https://github.com/kaleababayneh/zkvote-midnight
 repadd Midnight https://github.com/priyanshusodhan/midnight-secretballot-voting
+repadd Midnight https://github.com/Soujanya-Mctrl/Private-Student-Disciplinary-Registry
+repadd Midnight https://github.com/swascodes/voting
+repadd Midnight https://github.com/revis047/zkvote
 
 -- Starter Templates & Tutorials
 repadd Midnight https://github.com/eddalabs/midnight-contracts
@@ -300,6 +328,7 @@ repadd Midnight https://github.com/mashharuki/midnight-repo
 repadd Midnight https://github.com/mashharuki/midnight-sample
 repadd Midnight https://github.com/nicolasLuduena/2025-hackathon-midnight
 repadd Midnight https://github.com/arihkot/echo
+repadd Midnight https://github.com/bytewizard42i/midnight-starter-template-johns-copy
 
 -- Hackathon & Community Projects
 repadd Midnight https://github.com/floor-licker/CompactLoRa
@@ -317,10 +346,8 @@ repadd Midnight https://github.com/huskiehackers/SecretSchedulerPro
 repadd Midnight https://github.com/ishrith-gowda/midnight-hackathon-ishrith
 repadd Midnight https://github.com/vesper85/midnight-hack
 repadd Midnight https://github.com/UgaLabz/midnight_hack_2
-repadd Midnight https://github.com/mrruby/bar-age-gate
 repadd Midnight https://github.com/michaelbennieUFL/2025hackabull
 repadd Midnight https://github.com/navigate226/midnight-guestbook
-repadd Midnight https://github.com/snehendu098/midnight-will
 repadd Midnight https://github.com/StevenMolina22/zk-leaks
 repadd Midnight https://github.com/Yogiiitnr/Midnightlockedenvelope
 repadd Midnight https://github.com/FranZavalla/midnight-london
@@ -333,7 +360,6 @@ repadd Midnight https://github.com/erain9/midnight-h8e
 repadd Midnight https://github.com/Zero-Coffee-Proofs/Auditor-ZK
 repadd Midnight https://github.com/SundaeSwap-finance/midnight-examples
 repadd Midnight https://github.com/SanatKulkarni/CardanoHackathon-int21h
-repadd Midnight https://github.com/bytewizard42i/midnight-starter-template-johns-copy
 repadd Midnight https://github.com/hbrazier01/Airlog
 repadd Midnight https://github.com/SpyCrypto/AutoDiscovery
 repadd Midnight https://github.com/Edgxtech/pdm-demo-app
@@ -351,7 +377,6 @@ repadd Midnight https://github.com/1momoh/night-trade-bot
 repadd Midnight https://github.com/seyiademola147-netizen/Ademola.github.io
 repadd Midnight https://github.com/MichaelDi555X/midnightntwrk
 repadd Midnight https://github.com/DouglasHoffmann/midnight-js-hml
-repadd Midnight https://github.com/devrelaicom/midnight-local-devnet
 repadd Midnight https://github.com/spo-kissa/mn-explorer-preview
 repadd Midnight https://github.com/spo-kissa/midnight-preview-indexer
 repadd Midnight https://github.com/nite-framework/nite-api
@@ -366,3 +391,50 @@ repadd Midnight https://github.com/hooperben/legit-sick
 repadd Midnight https://github.com/ompiepy/IncognitoAudit
 repadd Midnight https://github.com/VeriMeZK/VeriMeZK
 repadd Midnight https://github.com/tusharpamnani/midnight-todo
+repadd Midnight https://github.com/sandipndev/dawn
+repadd Midnight https://github.com/elielreis/acrefi
+repadd Midnight https://github.com/aagargoura/hello-world-compact
+repadd Midnight https://github.com/Julia759/zkpass-lite
+repadd Midnight https://github.com/studentSS-code/ev_midnight
+repadd Midnight https://github.com/HarleysCodes/night-sign
+repadd Midnight https://github.com/1NickPappas/compact-lsp
+repadd Midnight https://github.com/Arcane-build/midnight-lending-borrowing-app
+repadd Midnight https://github.com/onkarr28/PrivateDiploma-Project
+repadd Midnight https://github.com/Ridhi-web/Blind-vendor
+repadd Midnight https://github.com/t-azam747/zk-lang-prof
+repadd Midnight https://github.com/mariyaa-04/Confidential-Prenuptial-Agreement
+repadd Midnight https://github.com/AyushmanGupta21/blind-rommate-midnight
+repadd Midnight https://github.com/Soumali-cloud/zk_midnight
+repadd Midnight https://github.com/Soumali-cloud/Confidential-Merger-Negotiation-Board
+repadd Midnight https://github.com/Soumali-cloud/sm
+repadd Midnight https://github.com/Soumali-cloud/sm1
+repadd Midnight https://github.com/Biswajyoti005/Anonymous-Startup-Equity-Registry
+repadd Midnight https://github.com/anynomousfriend/ZK-parental-consent
+repadd Midnight https://github.com/GangserX/MidHealth
+repadd Midnight https://github.com/Abhishekyadav26/ZK-Membership
+repadd Midnight https://github.com/rue19/Private-Inheritance-Claim-Prover
+repadd Midnight https://github.com/AnirbansarkarS/Anonymous-Addiction-Recovery-Tracker
+repadd Midnight https://github.com/diptomoy-das/Private-Veterinary-Record-Vault
+repadd Midnight https://github.com/Sayandeep-the-coder/Private-Tender-Bond
+repadd Midnight https://github.com/0day-Ashish/divorce-settlement
+repadd Midnight https://github.com/wolf1276/ZK-Competitor-Benchmarking
+repadd Midnight https://github.com/Pixie-19/Private-Neighborhood-Watch
+repadd Midnight https://github.com/Roxy-06/EV-Charging-Credit
+repadd Midnight https://github.com/swascodes/franchise-risein
+repadd Midnight https://github.com/praneet25101-blip/ShieldedLending
+repadd Midnight https://github.com/Anwesha-2025/organ-contract
+repadd Midnight https://github.com/alabaster1/cognosis
+repadd Midnight https://github.com/anwyn-io/anwyn-landing
+repadd Midnight https://github.com/beastdzns/compact_billboard
+repadd Midnight https://github.com/kosh-finance/kosh
+repadd Midnight https://github.com/kushack07/nebula
+repadd Midnight https://github.com/luvhac7/cardano_asia
+repadd Midnight https://github.com/mzf11125/midnight-forge
+repadd Midnight https://github.com/peteski22/pci-infra
+repadd Midnight https://github.com/peteski22/pci-zkp
+repadd Midnight https://github.com/valdryanivandito/midnight-starterkit-helloworld 
+repadd Midnight https://github.com/ridhi-web/blind-vendor-midnight
+repadd Midnight https://github.com/bytewizard42i/popcork
+repadd Midnight https://github.com/disassembler/midnight-cli
+repadd Midnight https://github.com/hey-salad/heysalad-wallet
+repadd Midnight https://github.com/htlabs-xyz/nocturne
