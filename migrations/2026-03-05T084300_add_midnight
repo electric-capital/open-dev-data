@@ -137,6 +137,7 @@ repadd Midnight https://github.com/0xAtelerix/sdk
 repadd Midnight https://github.com/nymtech/nym
 repadd Midnight https://github.com/AlphaTONCapital/vera-report-midnight-contract
 repadd Midnight https://github.com/fireblocks/midnight-glacier-drop-sdk
+repadd Midnight https://github.com/Tech-Expansion/midnight-explorer-web
 
 -- Compact Language Tooling
 repadd Midnight https://github.com/a-osiecki/compact-sc-template
@@ -163,8 +164,6 @@ repadd Midnight https://github.com/semsorock/midnight-indexer
 repadd Midnight https://github.com/Midnight-Scripts/Midnight-Live-View
 repadd Midnight https://github.com/mediocrehacker/Midnightscan
 repadd Midnight https://github.com/0xstrong/midnight-mnn-helm
-repadd Midnight https://github.com/dinhminhlhs/midnight-explorer-v0
-repadd Midnight https://github.com/Tech-Expansion/midnight-explorer-web
 repadd Midnight https://github.com/foxytanuki/midnight-sandbox
 repadd Midnight https://github.com/EperezOk/midnight-starter
 repadd Midnight https://github.com/JorisZierold/midnight-dapp-template
@@ -384,7 +383,6 @@ repadd Midnight https://github.com/nite-framework/nite-api
 repadd Midnight https://github.com/subc0der/midnight-cloak
 repadd Midnight https://github.com/BWtake/midnight-research-notes
 repadd Midnight https://github.com/ItzPlausible/cosmic-commons-cooperative
-repadd Midnight https://github.com/MasterChief-010101/midnight-private-counter
 repadd Midnight https://github.com/Ronexlemon/MidNight
 repadd Midnight https://github.com/ODATANO/NIGHTGATE
 repadd Midnight https://github.com/kingmunz1994-lgtm/night-markets
