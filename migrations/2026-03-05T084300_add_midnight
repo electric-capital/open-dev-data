@@ -1,16 +1,20 @@
 -- Midnight Network ecosystem map: initial submission
 --
 -- Methodology
--- Repos were identified through three sources:
+-- Repos were identified through these sources:
 --   1. Direct outreach to known ecosystem partners and community contributors
 --   2. Midnight Foundation team and staff personal repos
---   3. GitHub code search for "pragma language_version" (Compact (Midnight DSL) language
+--   3. GitHub code search for "pragma language_version" (Compact (Midnight's DSL) language
 --      marker) 
---
--- All repos were reviewed for Midnight relevance before inclusion.
+--   4. GitHub topic and keyword searches:
+--        - topic:midnightntwrk (official ecosystem topic tag)
+--        - topic:compact midnight (Compact language topic)
+--        - topic:midnight zk (midnight topic with ZK keyword filter)
+--        - "midnight network" in:readme (exact phrase in repository readme)
+--      All repos surfaced by these searches were manually reviewed for Midnight relevance before inclusion.
 --
 -- This is Midnight's first EC submission, ahead of mainnet launch.
--- Additional repos may be submitted in subsequent PRs as the ecosystem grows.
+-- Additional repos will be submitted in subsequent PRs as the ecosystem grows.
 --
 -- Questions: devrel.team@midnight.foundation
 
