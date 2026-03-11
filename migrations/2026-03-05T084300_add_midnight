@@ -129,7 +129,6 @@ repadd Midnight https://github.com/nymtech/nym
 repadd Midnight https://github.com/AlphaTONCapital/vera-report-midnight-contract
 repadd Midnight https://github.com/fireblocks/midnight-glacier-drop-sdk
 
-
 -- Compact Language Tooling
 repadd Midnight https://github.com/a-osiecki/compact-sc-template
 repadd Midnight https://github.com/aaronbassett/midnight-knowledgebase
@@ -171,6 +170,8 @@ repadd Midnight https://github.com/nel349/midnight-mobile-connector
 repadd Midnight https://github.com/nel349/midnight-pay
 repadd Midnight https://github.com/nel349/midnight-mobile
 repadd Midnight https://github.com/bytewizard42i/MidnightForge
+repadd Midnight https://github.com/FractionEstate/midnight-dev-skills
+repadd Midnight https://github.com/FractionEstate/midnight-nextjs-mcp
 
 -- Finance & DeFi
 repadd Midnight https://github.com/aaronbassett/example-dex
@@ -214,8 +215,10 @@ repadd Midnight https://github.com/dtutila/midnight-dega
 repadd Midnight https://github.com/abdussalam-mustapha/midnight-mcp
 repadd Midnight https://github.com/bytewizard42i/selectConnect_app_pro
 repadd Midnight https://github.com/datadr1ven/gbc
+repadd Midnight https://github.com/fredericosanntana/dpo2u-landing-page
 repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight
 repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight-compliance
+repadd Midnight https://github.com/fredericosanntana/dpo2u-midnight-relayer
 
 -- Identity & Privacy
 repadd Midnight https://github.com/bytewizard42i/AgenticDID_io_me
@@ -297,7 +300,6 @@ repadd Midnight https://github.com/mashharuki/midnight-repo
 repadd Midnight https://github.com/mashharuki/midnight-sample
 repadd Midnight https://github.com/nicolasLuduena/2025-hackathon-midnight
 repadd Midnight https://github.com/arihkot/echo
-repadd Midnight https://github.com/fredericosanntana/dpo2u-landing-page
 
 -- Hackathon & Community Projects
 repadd Midnight https://github.com/floor-licker/CompactLoRa
@@ -330,11 +332,9 @@ repadd Midnight https://github.com/nicolasLuduena/vite-turbo-react-shadcn-tailwi
 repadd Midnight https://github.com/erain9/midnight-h8e
 repadd Midnight https://github.com/Zero-Coffee-Proofs/Auditor-ZK
 repadd Midnight https://github.com/SundaeSwap-finance/midnight-examples
-repadd Midnight https://github.com/FractionEstate/midnight-dev-skills
 repadd Midnight https://github.com/SanatKulkarni/CardanoHackathon-int21h
 repadd Midnight https://github.com/bytewizard42i/midnight-starter-template-johns-copy
 repadd Midnight https://github.com/hbrazier01/Airlog
-repadd Midnight https://github.com/SpyCrypto/midnight-kitties
 repadd Midnight https://github.com/SpyCrypto/AutoDiscovery
 repadd Midnight https://github.com/Edgxtech/pdm-demo-app
 repadd Midnight https://github.com/bochaco/dmarket
@@ -361,3 +361,8 @@ repadd Midnight https://github.com/ItzPlausible/cosmic-commons-cooperative
 repadd Midnight https://github.com/MasterChief-010101/midnight-private-counter
 repadd Midnight https://github.com/Ronexlemon/MidNight
 repadd Midnight https://github.com/ODATANO/NIGHTGATE
+repadd Midnight https://github.com/kingmunz1994-lgtm/night-markets
+repadd Midnight https://github.com/hooperben/legit-sick
+repadd Midnight https://github.com/ompiepy/IncognitoAudit
+repadd Midnight https://github.com/VeriMeZK/VeriMeZK
+repadd Midnight https://github.com/tusharpamnani/midnight-todo
