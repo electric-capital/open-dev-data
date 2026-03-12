@@ -1,0 +1,4 @@
+repadd "Push Protocol (previously EPNS)" https://github.com/winsznx/chaincircle_beta
+repadd Base https://github.com/winsznx/chaincircle_beta
+repadd Base https://github.com/winsznx/swiftbridge-contracts
+repadd Base https://github.com/winsznx/swift-batch-messaging-contract

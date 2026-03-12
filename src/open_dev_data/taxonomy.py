@@ -303,6 +303,9 @@ class Taxonomy:
 
     def _move_repo(self, src: str, dst: str) -> None:
         """Move/rename a repository URL."""
+        if src == dst:
+            return
+
         if src not in self.repo_ids:
             raise InvalidSourceRepo(f"Source repo '{src}' does not exist")
 
