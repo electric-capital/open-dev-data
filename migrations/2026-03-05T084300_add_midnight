@@ -137,6 +137,8 @@ repadd Midnight https://github.com/nymtech/nym
 repadd Midnight https://github.com/AlphaTONCapital/vera-report-midnight-contract
 repadd Midnight https://github.com/fireblocks/midnight-glacier-drop-sdk
 repadd Midnight https://github.com/Tech-Expansion/midnight-explorer-web
+repadd Midnight https://github.com/IAMXID/did-midnight
+repadd Midnight https://github.com/input-output-hk/midnight-poc
 
 -- Compact Language Tooling
 repadd Midnight https://github.com/a-osiecki/compact-sc-template
@@ -240,6 +242,7 @@ repadd Midnight https://github.com/VanshDeo/Confidential-Will-System
 repadd Midnight https://github.com/snehendu098/midnight-will
 repadd Midnight https://github.com/ax0216/zkswap
 repadd Midnight https://github.com/arpit-jindal-01/nft-auction-private
+repadd Midnight https://github.com/sevryn-labs/pUSD-protocol
 
 -- Identity & Privacy
 repadd Midnight https://github.com/bytewizard42i/AgenticDID_io_me
@@ -442,3 +445,4 @@ repadd Midnight https://github.com/mbs-midnight/night-estimator
 repadd Midnight https://github.com/ADAvault/midnight-skill
 repadd Midnight https://github.com/Garv767/ProofVault
 repadd Midnight https://github.com/greyw0rks/midnight-private-voting
+repadd Midnight https://github.com/lmangall/chatpayXmidnight
