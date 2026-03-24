@@ -75,6 +75,7 @@ repadd Midnight https://github.com/nstanford5/compact-testbed
 repadd Midnight https://github.com/adamreynolds-io/nightcap
 repadd Midnight https://github.com/adamreynolds-io/compact-lsp
 repadd Midnight https://github.com/adamreynolds-io/lumen
+repadd Midnight https://github.com/adamreynolds-io/pm-22376-validation
 repadd Midnight https://github.com/claudebarde/compactscript
 repadd Midnight https://github.com/claudebarde/nyx-script
 repadd Midnight https://github.com/claudebarde/solpact
@@ -106,7 +107,7 @@ repadd Midnight https://github.com/OpenZeppelin/midnight-apps
 repadd Midnight https://github.com/OpenZeppelin/compact-contracts
 repadd Midnight https://github.com/OpenZeppelin/compact-security-detectors-sdk
 repadd Midnight https://github.com/OpenZeppelin/compact-tools
-repadd Midnight https://github.com/OpenZeppelin/docs
+repadd Midnight https://github.com/OpenZeppelin/openzeppelin-adapters
 repadd Midnight https://github.com/effectstream/block-kart-legends
 repadd Midnight https://github.com/effectstream/docs
 repadd Midnight https://github.com/effectstream/midnight-division
@@ -148,7 +149,6 @@ repadd Midnight https://github.com/nymtech/nym
 repadd Midnight https://github.com/AlphaTONCapital/vera-report-midnight-contract
 repadd Midnight https://github.com/fireblocks/midnight-glacier-drop-sdk
 repadd Midnight https://github.com/Tech-Expansion/midnight-explorer-web
-repadd Midnight https://github.com/Tech-Expansion/.github
 repadd Midnight https://github.com/IAMXID/did-midnight
 repadd Midnight https://github.com/input-output-hk/midnight-poc
 repadd Midnight https://github.com/input-output-hk/midnight-zk
@@ -416,6 +416,7 @@ repadd Midnight https://github.com/FranZavalla/hackaton-midnight
 repadd Midnight https://github.com/faculerena/sinergias-2c2025
 repadd Midnight https://github.com/a-osiecki/midnight-hackathon-london
 repadd Midnight https://github.com/kaleababayneh/humanzee
+repadd Midnight https://github.com/kaleababayneh/mn-wordle
 repadd Midnight https://github.com/nicolasLuduena/vite-turbo-react-shadcn-tailwind-midnight
 repadd Midnight https://github.com/erain9/midnight-h8e
 repadd Midnight https://github.com/Zero-Coffee-Proofs/Auditor-ZK
@@ -454,6 +455,7 @@ repadd Midnight https://github.com/hooperben/legit-sick
 repadd Midnight https://github.com/ompiepy/IncognitoAudit
 repadd Midnight https://github.com/VeriMeZK/VeriMeZK
 repadd Midnight https://github.com/tusharpamnani/midnight-todo
+repadd Midnight https://github.com/tusharpamnani/midnight-programs-list
 repadd Midnight https://github.com/sandipndev/dawn
 repadd Midnight https://github.com/elielreis/acrefi
 repadd Midnight https://github.com/aagargoura/hello-world-compact
@@ -685,3 +687,8 @@ repadd Midnight https://github.com/Danish26-dev/IdentiPI
 repadd Midnight https://github.com/sevryn-labs/nocturne 
 repadd Midnight https://github.com/LeastAuthority/midnight-js
 repadd Midnight https://github.com/barnazaka/nightscore
+repadd Midnight https://github.com/Luxion-Labs/REAP
+repadd Midnight https://github.com/Huygon764/Midnight-playground
+repadd Midnight https://github.com/Sakibimam/ShieldScore
+repadd Midnight https://github.com/hurndev/MidnightMiner
+repadd Midnight https://github.com/craigmbrown/blindoracle-marketplace-client
