@@ -1,0 +1,71 @@
+-- Add repos to Monad ecosystem
+
+-- Clober DEX
+repadd Monad https://github.com/clober-dex/v2-sdk
+repadd Monad https://github.com/clober-dex/v2-core
+repadd Monad https://github.com/clober-dex/clober-liquidity-vault
+
+-- Crystal Exchange
+repadd Monad https://github.com/CrystalExch/Crystal-Contracts
+repadd Monad https://github.com/CrystalExch/Example-MM
+
+-- Euler Finance
+repadd Monad https://github.com/euler-xyz/ethereum-vault-connector
+repadd Monad https://github.com/euler-xyz/euler-vault-kit
+repadd Monad https://github.com/euler-xyz/euler-price-oracle
+repadd Monad https://github.com/euler-xyz/euler-earn
+repadd Monad https://github.com/euler-xyz/evk-periphery
+repadd Monad https://github.com/euler-xyz/fee-flow
+
+-- Socket / Bungee
+repadd Monad https://github.com/SocketDotTech/bungee-contracts-public
+
+-- Curvance
+repadd Monad https://github.com/curvance/curvance-contracts
+
+-- Magma Staking
+repadd Monad https://github.com/MagmaStaking/contracts-public
+
+-- Tadle
+repadd Monad https://github.com/tadle-com/v3-sandbox-audit_1
+
+-- Morpho
+repadd Monad https://github.com/morpho-org/vault-v2
+repadd Monad https://github.com/morpho-org/vault-v2-adapter-registries
+repadd Monad https://github.com/morpho-org/morpho-blue
+repadd Monad https://github.com/morpho-org/morpho-blue-irm
+repadd Monad https://github.com/morpho-org/morpho-blue-oracles
+repadd Monad https://github.com/morpho-org/metamorpho-v1.1
+repadd Monad https://github.com/morpho-org/public-allocator
+repadd Monad https://github.com/morpho-org/pre-liquidation
+repadd Monad https://github.com/morpho-org/bundler3
+
+-- ME Foundation
+repadd Monad https://github.com/me-foundation/magicdrop
+
+-- Uniswap
+repadd Monad https://github.com/Uniswap/contracts
+repadd Monad https://github.com/Uniswap/sdks
+repadd Monad https://github.com/Uniswap/interface
+
+-- Puffer Finance
+repadd Monad https://github.com/PufferFinance/puffer-contracts
+
+-- Li.Fi
+repadd Monad https://github.com/lifinance/contracts
+repadd Monad https://github.com/lifinance/types
+repadd Monad https://github.com/lifinance/data-types
+repadd Monad https://github.com/lifinance/customized-token-list
+repadd Monad https://github.com/lifinance/ETHMuc-starter
+
+-- Solv Finance
+repadd Monad https://github.com/solv-finance/SolvBTC
+
+-- Kyber Network
+repadd Monad https://github.com/KyberNetwork/ks-aggregation-router
+repadd Monad https://github.com/KyberNetwork/kyber-exclusive-amm-sc
+
+-- Agora Finance
+repadd Monad https://github.com/agora-finance/stable-swap
+repadd Monad https://github.com/agora-finance/agora-dollar-evm
+repadd Monad https://github.com/agora-finance/contracts
