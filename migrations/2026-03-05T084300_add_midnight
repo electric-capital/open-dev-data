@@ -74,8 +74,11 @@ repadd Midnight https://github.com/riusricardo/scavenger-miner
 repadd Midnight https://github.com/nstanford5/compact-testbed
 repadd Midnight https://github.com/adamreynolds-io/nightcap
 repadd Midnight https://github.com/adamreynolds-io/compact-lsp
+repadd Midnight https://github.com/adamreynolds-io/compact-zkir-lint
 repadd Midnight https://github.com/adamreynolds-io/lumen
 repadd Midnight https://github.com/adamreynolds-io/pm-22376-validation
+repadd Midnight https://github.com/adamreynolds-io/gsd-wallet
+repadd Midnight https://github.com/adamreynolds-io/wallet-dapp-deploy
 repadd Midnight https://github.com/claudebarde/compactscript
 repadd Midnight https://github.com/claudebarde/nyx-script
 repadd Midnight https://github.com/claudebarde/solpact
@@ -93,6 +96,7 @@ repadd Midnight https://github.com/JAlbertCode/open-vote
 repadd Midnight https://github.com/midnightntwrk/midnight-dust-generator
 repadd Midnight https://github.com/devrelaicom/midnight-local-devnet
 repadd Midnight https://github.com/laurenelee/midnight-ecosystem-tracker
+repadd Midnight https://github.com/CharlesHoskinson/sevenlayer
 
 -- Ecosystem Partners
 repadd Midnight https://github.com/bricktowers/midnight-seabattle
@@ -112,6 +116,15 @@ repadd Midnight https://github.com/effectstream/block-kart-legends
 repadd Midnight https://github.com/effectstream/docs
 repadd Midnight https://github.com/effectstream/midnight-division
 repadd Midnight https://github.com/effectstream/prediction-market
+repadd Midnight https://github.com/effectstream/midnight-tx-benchmark
+repadd Midnight https://github.com/effectstream/werewolf-game
+repadd Midnight https://github.com/effectstream/go-fish
+repadd Midnight https://github.com/effectstream/dust-registration-cli
+repadd Midnight https://github.com/effectstream/wasm-proof-server-benchmark
+repadd Midnight https://github.com/effectstream/safe-solver
+repadd Midnight https://github.com/effectstream/compile-midnight
+repadd Midnight https://github.com/effectstream/midnight-game-api-spec
+repadd Midnight https://github.com/effectstream/werewolf
 repadd Midnight https://github.com/meshjs/mesh
 repadd Midnight https://github.com/MeshJS/midnight
 repadd Midnight https://github.com/MeshJS/midnight-contracts
@@ -206,7 +219,6 @@ repadd Midnight https://github.com/FractionEstate/midnight-dev-skills
 repadd Midnight https://github.com/FractionEstate/midnight-nextjs-mcp
 repadd Midnight https://github.com/disassembler/midnight-playground
 repadd Midnight https://github.com/sommetlabs/midnight-agent-knowledge-base
-repadd Midnight https://github.com/HiImRook/Midnight-Tracker
 repadd Midnight https://github.com/georgethoppil/compactsee
 repadd Midnight https://github.com/depapp/midnight-devkit
 repadd Midnight https://github.com/longphanquangminh/midnight-explorer
@@ -508,7 +520,6 @@ repadd Midnight https://github.com/ADAvault/midnight-skill
 repadd Midnight https://github.com/Garv767/ProofVault
 repadd Midnight https://github.com/greyw0rks/midnight-private-voting
 repadd Midnight https://github.com/lmangall/chatpayXmidnight
-repadd Midnight https://github.com/jonasja/night-heron
 repadd Midnight https://github.com/geofflittle/tryapply-crash-repro
 repadd Midnight https://github.com/gemothy/midnight-standalone
 repadd Midnight https://github.com/depapp/midnight-whistleblower
@@ -652,7 +663,7 @@ repadd Midnight https://github.com/Wilfred007/VeryFi
 repadd Midnight https://github.com/xuyen88/minichat
 repadd Midnight https://github.com/Yohannes-Misganaw/truth-chain
 repadd Midnight https://github.com/zeeshan12312/midnight-shield-protect-data
-repadd Midnight https://github.com/carthagexlabs/tanitshield
+repadd Midnight https://github.com/bytewizard42i/tanitshield-johns_copy
 repadd Midnight https://github.com/kohasummons/pvs-midnight
 repadd Midnight https://github.com/barnazaka/trustwork-proof
 repadd Midnight https://github.com/Kali-Decoder/midnight-dapps
@@ -688,3 +699,11 @@ repadd Midnight https://github.com/Huygon764/Midnight-playground
 repadd Midnight https://github.com/Sakibimam/ShieldScore
 repadd Midnight https://github.com/hurndev/MidnightMiner
 repadd Midnight https://github.com/craigmbrown/blindoracle-marketplace-client
+repadd Midnight https://github.com/Abhinandan-KP/proofvault
+repadd Midnight https://github.com/BoPDA1607/Midnight_Projects
+repadd Midnight https://github.com/Isaaco3349/zkpilot
+repadd Midnight https://github.com/kushal2060/Midnight
+repadd Midnight https://github.com/lnc415/mystery-bot
+repadd Midnight https://github.com/SachPlayZ/ephemera
+repadd Midnight https://github.com/tusharpamnani/midnight-hello-world
+repadd Midnight https://github.com/yourtypicaldev404/whatarewecookingtoday1244343
