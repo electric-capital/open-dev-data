@@ -173,6 +173,9 @@ repadd Midnight https://github.com/Nucastio/Anti-Front-Running-ZKPerps-on-Cardan
 repadd Midnight https://github.com/nftmakerio/nmkr-midnight-api
 repadd Midnight https://github.com/webisoftSoftware/1AM-app-registery
 repadd Midnight https://github.com/webisoftSoftware/midnight-proof-provider-auth
+repadd Midnight https://github.com/webisoftSoftware/1AM-Midnight-Skill
+repadd Midnight https://github.com/webisoftSoftware/1am-zk-keys
+repadd Midnight https://github.com/webisoftSoftware/zk-mint
 
 -- Compact Language Tooling
 repadd Midnight https://github.com/a-osiecki/compact-sc-template
@@ -241,6 +244,7 @@ repadd Midnight https://github.com/rickachiu/nightminer
 repadd Midnight https://github.com/overguild/midnight-dapp-skill
 repadd Midnight https://github.com/phamdat721101/builder-skills
 repadd Midnight https://github.com/proofofplate/dawn1
+repadd Midnight https://github.com/navigate226/midnight-opencode-agent
 
 -- Finance & DeFi
 repadd Midnight https://github.com/aaronbassett/example-dex
@@ -386,6 +390,7 @@ repadd Midnight https://github.com/Soujanya-Mctrl/Private-Student-Disciplinary-R
 repadd Midnight https://github.com/swascodes/voting
 repadd Midnight https://github.com/revis047/zkvote
 repadd Midnight https://github.com/Sushmit94/Midnight_dapp
+repadd Midnight https://github.com/bytewizard42i/realVote
 
 -- Starter Templates & Tutorials
 repadd Midnight https://github.com/cryptophonic/example-counter
@@ -466,6 +471,8 @@ repadd Midnight https://github.com/ompiepy/IncognitoAudit
 repadd Midnight https://github.com/VeriMeZK/VeriMeZK
 repadd Midnight https://github.com/tusharpamnani/midnight-todo
 repadd Midnight https://github.com/tusharpamnani/midnight-programs-list
+repadd Midnight https://github.com/tusharpamnani/midnight-quadratic-voting
+repadd Midnight https://github.com/tusharpamnani/midnight-allowlist
 repadd Midnight https://github.com/sandipndev/dawn
 repadd Midnight https://github.com/elielreis/acrefi
 repadd Midnight https://github.com/aagargoura/hello-world-compact
@@ -707,3 +714,4 @@ repadd Midnight https://github.com/lnc415/mystery-bot
 repadd Midnight https://github.com/SachPlayZ/ephemera
 repadd Midnight https://github.com/tusharpamnani/midnight-hello-world
 repadd Midnight https://github.com/yourtypicaldev404/whatarewecookingtoday1244343
+repadd Midnight https://github.com/barnazaka/midnight-dapp
