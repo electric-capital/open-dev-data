@@ -1,0 +1,8 @@
+-- UTL Protocol ecosystem entry for Electric Capital Open Dev Data
+
+ecoadd UTL-Protocol
+
+-- Core platform and smart contract repos
+repadd UTL-Protocol https://github.com/Keno2121/kenostod-blockchain
+repadd UTL-Protocol https://github.com/Keno2121/UTL-Protocol
+repadd UTL-Protocol https://github.com/Keno2121/utl-metamask-snap
