@@ -1,0 +1,5 @@
+-- Add GigShield to the Conflux ecosystem
+-- GigShield is a trustless freelance escrow platform built on Conflux eSpace,
+-- submitted to Conflux Global Hackfest 2026.
+
+repadd Conflux https://github.com/mathiaspellegrin/GigShield
