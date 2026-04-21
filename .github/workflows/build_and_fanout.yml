@@ -1,0 +1,38 @@
+name: Build and Fanout
+
+on:
+  push:
+    branches: ["master"]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v6
+        with:
+          python-version-file: ".python-version"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Run tests
+        run: |
+          ./run.sh test
+
+      - name: Validate Migrations from Genesis
+        run: |
+          ./run.sh validate
+
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT }}
+          repository: electric-capital/open-dev-data-website
+          event-type: master-merge
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'

@@ -1,0 +1,2 @@
+-- Add Algorand escrow smart contract repository
+repadd Algorand https://github.com/Rutika4521/algorand-escrow-smart-contract #smart-contract #pyteal

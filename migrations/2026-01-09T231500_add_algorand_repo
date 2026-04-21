@@ -1,0 +1,2 @@
+-- Add Algorand repository
+repadd Algorand https://github.com/nilesh-sabale/algorand-voting-dapp #dapp

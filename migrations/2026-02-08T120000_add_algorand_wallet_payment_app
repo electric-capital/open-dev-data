@@ -1,0 +1,2 @@
+-- Add Algorand wallet and payment app repository
+repadd Algorand https://github.com/tarunipriya/algorand-wallet-payment-app #wallet #payment
