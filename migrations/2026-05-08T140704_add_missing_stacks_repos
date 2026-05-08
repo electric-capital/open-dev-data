@@ -1,0 +1,27 @@
+-- Add missing Stacks repositories surfaced via Talent Protocol's Stacks ecosystem data
+-- Filtered from a larger candidate set to drop repos exhibiting farming patterns
+-- (artificial multi-repo splits, identical on-chain metrics across same-owner repos,
+-- mis-tagged ecosystems, forks of stacks-core, and bot-commit signatures).
+repadd Stacks https://github.com/iyanusha/verifychain-stacks
+repadd Stacks https://github.com/TheDEV111/Card-Simulation
+repadd Stacks https://github.com/mandu-smith/stack-flow
+repadd Stacks https://github.com/myreceiptt/stacks-receipt-of-life
+repadd Stacks https://github.com/Qasim-Rokeeb/african-cities-vote
+repadd Stacks https://github.com/Uchechukwu-Ekezie/CarIn
+repadd Stacks https://github.com/Olowodarey/Truecall
+repadd Stacks https://github.com/Samuel1505/SyncsHC
+repadd Stacks https://github.com/Samuel1505/FlyraOS
+repadd Stacks https://github.com/Yusufolosun/StreamPay
+repadd Stacks https://github.com/Richiey1/StacksTacToe
+repadd Stacks https://github.com/bbkenny/STXBazaar
+repadd Stacks https://github.com/OmegaGbenga/Fund-STX
+repadd Stacks https://github.com/simeong-dkpg/proof-tip
+repadd Stacks https://github.com/ola-akanbi/stack-pluse
+repadd Stacks https://github.com/itohowo-dot/tip-ledger
+repadd Stacks https://github.com/tieubochet/stackstreak
+repadd Stacks https://github.com/Sam-Rytech/Automata-V2
+repadd Stacks https://github.com/greyw0rks/proofleger-verifier
+repadd Stacks https://github.com/Millburn-Labs/TrustBill
+repadd Stacks https://github.com/Mrwicks00/satspay-api
+repadd Stacks https://github.com/carlton-source/sat-send
+repadd Stacks https://github.com/Sendi0011/LastSats
