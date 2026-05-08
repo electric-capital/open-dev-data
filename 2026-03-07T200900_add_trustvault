@@ -1,4 +1,1 @@
--- Add TrustVault: Autonomous Inheritance Protocol on Algorand
-ecoadd TrustVault
-repadd TrustVault https://github.com/SaadAbdullah72/TrustVault3 #defi #protocol
-ecocon Algorand TrustVault
+repadd Algorand https://github.com/SaadAbdullah72/TrustVault3 #defi #protocol
