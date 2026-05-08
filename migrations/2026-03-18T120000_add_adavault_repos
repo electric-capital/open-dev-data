@@ -1,7 +1,6 @@
 -- Add Midnight ecosystem and ADAvault repos
 
 -- Midnight is a data protection blockchain built by IOG (partner chain of Cardano)
-ecoadd Midnight
 ecocon Cardano Midnight
 
 -- ADAvault - Midnight developer tooling
