@@ -1,0 +1,21 @@
+-- Add net new ecosystem repos - May 10, 2026
+repadd Midnight https://github.com/apurba-labs/gotihub-midnight-bridge
+repadd Midnight https://github.com/barnazaka/midnight-dapp
+repadd Midnight https://github.com/bwbush/midnight-env
+repadd Midnight https://github.com/codeczero/nexusaidata
+repadd Midnight https://github.com/effectstream/dust-to-dust
+repadd Midnight https://github.com/effectstream/kachina-colosseum
+repadd Midnight https://github.com/fridayback/midnight-tx-proxy
+repadd Midnight https://github.com/guide1-cloud/midnight11
+repadd Midnight https://github.com/kingmunz1994-lgtm/night-hub
+repadd Midnight https://github.com/kingmunz1994-lgtm/night-id
+repadd Midnight https://github.com/kingmunz1994-lgtm/night-store
+repadd Midnight https://github.com/kohsine/mn-uns-contract
+repadd Midnight https://github.com/luloxi/midnight-vibecode-certifier
+repadd Midnight https://github.com/monty0007/mediproof-midnight
+repadd Midnight https://github.com/monty0007/workproof-midnight
+repadd Midnight https://github.com/nel349/midnight-wallet-cli
+repadd Midnight https://github.com/nftmakerio/midnight-dotnet-sdk
+repadd Midnight https://github.com/scream2tv/lumpfun
+repadd Midnight https://github.com/skyyycodes/zkai-eth
+repadd Midnight https://github.com/tripleplaylabs/owlid_release
