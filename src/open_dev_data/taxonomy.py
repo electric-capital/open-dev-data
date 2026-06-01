@@ -531,7 +531,7 @@ class Taxonomy:
         """Print all errors to stderr."""
         for error in self.errors:
             print(
-                f"{error.path}:{error.line_num}: error.{error.message}", file=sys.stderr
+                f"{error.path}:{error.line_num}: {error.message}", file=sys.stderr
             )
 
     def _tag_strings_for_eco_repo(
