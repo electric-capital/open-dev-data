@@ -1,0 +1,34 @@
+-- Add repositories from the Boundless x Trustless Work Nigeria Hackathon.
+-- These projects integrated Trustless Work and were brought into the Stellar builder pipeline through the hackathon.
+
+repadd Stellar https://github.com/Franklivania/caushun
+repadd Stellar https://github.com/bitfalt/EcoProof
+repadd Stellar https://github.com/sage-senpai/Nimbus
+repadd Stellar https://github.com/Eras256/MileChain
+repadd Stellar https://github.com/InnoOkeke/VeriTask
+repadd Stellar https://github.com/ebubechi-ihediwa/Verix
+repadd Stellar https://github.com/Tasfia-17/aidchain
+repadd Stellar https://github.com/AryanSaxenaa/ClauseKit
+repadd Stellar https://github.com/solomonadzape95/tilt
+repadd Stellar https://github.com/thetruesammyjay/naijagig-escrow
+repadd Stellar https://github.com/e-myrax/Globe-thrift
+repadd Stellar https://github.com/simplex-t/sunvasi
+repadd Stellar https://github.com/princesssaven/Poolfi-Demo
+repadd Stellar https://github.com/victor-ogbonna/CNG-Protect-Stellar
+repadd Stellar https://github.com/Chidubemkingsley/ProofEscrow
+repadd Stellar https://github.com/MaxCybOps/clowee-agentic-recruiter
+repadd Stellar https://github.com/CyberVerse2/gopadi
+repadd Stellar https://github.com/Bosun-Josh121/conductor
+repadd Stellar https://github.com/devfoma/Trustquest
+repadd Stellar https://github.com/shogun444/Agroshield
+repadd Stellar https://github.com/Victor28012001/proof_pool
+repadd Stellar https://github.com/Ogsznn/Nairalock
+repadd Stellar https://github.com/acakbin1881/TrustRFQ
+repadd Stellar https://github.com/farhanqaz/milestonepay
+repadd Stellar https://github.com/obiJohnbosco163/cosmic-escrow-agent
+repadd Stellar https://github.com/Muhtoyyib/escrow-flow-builder
+repadd Stellar https://github.com/Trustless-OSS/Trustless-OSS
+repadd Stellar https://github.com/theeagle2407/Trusta
+repadd Stellar https://github.com/soomtochukwu/TradeFlow
+repadd Stellar https://github.com/phamdat721101/signal
+repadd Stellar https://github.com/Dprof-in-tech/stipend
