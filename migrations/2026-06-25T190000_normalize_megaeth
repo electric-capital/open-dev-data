@@ -1,0 +1,47 @@
+-- Normalize ecosystem naming from org-style label to ecosystem label
+
+ecomov "MegaETH Labs" "MegaETH"
+
+-- Remove official repos that are no longer part of the intended public MegaETH footprint
+
+reprem "MegaETH" https://github.com/megaeth-labs/.github
+reprem "MegaETH" https://github.com/megaeth-labs/PerfUtils
+reprem "MegaETH" https://github.com/megaeth-labs/aave-v3-deploy
+reprem "MegaETH" https://github.com/megaeth-labs/baseorg-withdrawer
+reprem "MegaETH" https://github.com/megaeth-labs/chains
+reprem "MegaETH" https://github.com/megaeth-labs/eigenda
+reprem "MegaETH" https://github.com/megaeth-labs/eigenda-proxy
+reprem "MegaETH" https://github.com/megaeth-labs/evm-inspectors
+reprem "MegaETH" https://github.com/megaeth-labs/evmone-compiler
+reprem "MegaETH" https://github.com/megaeth-labs/firewood
+reprem "MegaETH" https://github.com/megaeth-labs/go-ethereum
+reprem "MegaETH" https://github.com/megaeth-labs/go-ipa
+reprem "MegaETH" https://github.com/megaeth-labs/go-verkle
+reprem "MegaETH" https://github.com/megaeth-labs/infra
+reprem "MegaETH" https://github.com/megaeth-labs/monitorism
+reprem "MegaETH" https://github.com/megaeth-labs/op-geth
+reprem "MegaETH" https://github.com/megaeth-labs/optimism
+reprem "MegaETH" https://github.com/megaeth-labs/pstd
+reprem "MegaETH" https://github.com/megaeth-labs/reth
+reprem "MegaETH" https://github.com/megaeth-labs/reth-perf-utils
+reprem "MegaETH" https://github.com/megaeth-labs/revm
+reprem "MegaETH" https://github.com/megaeth-labs/rust-rocksdb
+reprem "MegaETH" https://github.com/megaeth-labs/trie
+reprem "MegaETH" https://github.com/megaeth-labs/uniswap-v2-periphery
+
+-- Add official public repos that define the intended MegaETH ecosystem footprint
+
+repadd "MegaETH" https://github.com/megaeth-labs/RedBlackTreeKV-demo
+repadd "MegaETH" https://github.com/megaeth-labs/contract-verification
+repadd "MegaETH" https://github.com/megaeth-labs/documentation
+repadd "MegaETH" https://github.com/megaeth-labs/foundry
+repadd "MegaETH" https://github.com/megaeth-labs/hana
+repadd "MegaETH" https://github.com/megaeth-labs/hokulea
+repadd "MegaETH" https://github.com/megaeth-labs/mega-evm
+repadd "MegaETH" https://github.com/megaeth-labs/mega-tokenlist
+repadd "MegaETH" https://github.com/megaeth-labs/moss-skills
+repadd "MegaETH" https://github.com/megaeth-labs/salt
+repadd "MegaETH" https://github.com/megaeth-labs/stateless-validator
+repadd "MegaETH" https://github.com/megaeth-labs/terminal-auth-sdk
+repadd "MegaETH" https://github.com/megaeth-labs/tests
+repadd "MegaETH" https://github.com/megaeth-labs/wallet-cli
