@@ -34,20 +34,28 @@ check_uv() {
 
 check_uv
 
+run_cmd() {
+    if [ -n "$VIRTUAL_ENV" ]; then
+        "$@"
+    else
+        uv run "$@"
+    fi
+}
+
 validate() {
-    uv run open-dev-data validate
+    run_cmd open-dev-data validate
 }
 
 export_taxonomy() {
-    uv run open-dev-data export "${@}"
+    run_cmd open-dev-data export "${@}"
 }
 
 test() {
-    uv run pytest
+    run_cmd pytest
 }
 
 help() {
-    uv run open-dev-data help
+    run_cmd open-dev-data help
 }
 
 # Main script logic

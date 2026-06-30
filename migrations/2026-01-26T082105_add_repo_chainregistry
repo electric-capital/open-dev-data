@@ -1,0 +1,24 @@
+repadd Base https://github.com/winsznx/chainregistry
+repadd Stacks https://github.com/winsznx/chainregistry
+repadd Base https://github.com/winsznx/trustvault
+repadd Stacks https://github.com/winsznx/trustvault
+repadd Base https://github.com/winsznx/proofchain
+repadd Stacks https://github.com/winsznx/proofchain
+repadd Base https://github.com/winsznx/rewardpool
+repadd Stacks https://github.com/winsznx/rewardpool
+repadd Base https://github.com/winsznx/accesspass
+repadd Stacks https://github.com/winsznx/accesspass
+repadd Base https://github.com/winsznx/dataoracle
+repadd Stacks https://github.com/winsznx/dataoracle
+repadd Base https://github.com/winsznx/microloan
+repadd Stacks https://github.com/winsznx/microloan
+repadd Base https://github.com/winsznx/eventticket
+repadd Stacks https://github.com/winsznx/eventticket
+repadd Base https://github.com/winsznx/identitybadge
+repadd Stacks https://github.com/winsznx/identitybadge
+repadd Base https://github.com/winsznx/fundraiser
+repadd Stacks https://github.com/winsznx/fundraiser
+repadd Cronos https://github.com/winsznx/relaycore
+repadd "Cronos zkEVM" https://github.com/winsznx/relaycore
+repadd Ethereum https://github.com/winsznx/relaycore
+repadd x402 https://github.com/winsznx/relaycore
