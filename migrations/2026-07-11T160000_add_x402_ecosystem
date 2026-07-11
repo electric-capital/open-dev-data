@@ -1,0 +1,24 @@
+-- Add the x402 ecosystem: the HTTP 402 "Payment Required" machine-to-machine
+-- payments protocol (x402 Foundation, a Linux Foundation project).
+-- x402 settles primarily on Base today, with Solana support emerging.
+ecoadd x402
+ecocon Base x402
+ecocon Solana x402
+-- Core protocol repositories
+repadd x402 https://github.com/x402-foundation/x402 #protocol
+repadd x402 https://github.com/coinbase/x402 #protocol
+-- Ecosystem explorers and protocol extensions
+repadd x402 https://github.com/Merit-Systems/x402scan
+repadd x402 https://github.com/google-agentic-commerce/a2a-x402
+-- Independent measurement, verification and developer tooling
+repadd x402 https://github.com/smartflowproai-lang/x402-attribution-ref
+repadd x402 https://github.com/smartflowproai-lang/x402-b20-exact
+repadd x402 https://github.com/smartflowproai-lang/x402-endpoint-validator
+repadd x402 https://github.com/smartflowproai-lang/pqs-verify
+repadd x402 https://github.com/smartflowproai-lang/mapper-mcp
+repadd x402 https://github.com/smartflowproai-lang/smartflow-observatory-methodology
+repadd x402 https://github.com/smartflowproai-lang/x402-saas-starter
+repadd x402 https://github.com/smartflowproai-lang/quorum
+repadd x402 https://github.com/smartflowproai-lang/solana-x402-scanner
+repadd x402 https://github.com/smartflowproai-lang/solana-x402-facilitator
+repadd x402 https://github.com/smartflowproai-lang/n8n-nodes-x402
