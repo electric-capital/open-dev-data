@@ -11,6 +11,7 @@ repadd x402 https://github.com/coinbase/x402 #protocol
 repadd x402 https://github.com/Merit-Systems/x402scan
 repadd x402 https://github.com/google-agentic-commerce/a2a-x402
 -- Independent measurement, verification and developer tooling
+repadd x402 https://github.com/smartflowproai-lang/b20-census
 repadd x402 https://github.com/smartflowproai-lang/x402-attribution-ref
 repadd x402 https://github.com/smartflowproai-lang/x402-b20-exact
 repadd x402 https://github.com/smartflowproai-lang/x402-endpoint-validator
