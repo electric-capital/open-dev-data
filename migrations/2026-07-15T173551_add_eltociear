@@ -1,0 +1,10 @@
+-- Add eltociear: open-source AI-agent security tools + x402 (USDC on Base) APIs
+ecoadd eltociear
+repadd eltociear https://github.com/eltociear/tokenguard-mcp
+repadd eltociear https://github.com/eltociear/contract-guard-mcp
+repadd eltociear https://github.com/eltociear/x402-approval-guard
+repadd eltociear https://github.com/eltociear/skill-audit-mcp
+repadd eltociear https://github.com/eltociear/secrets-audit-mcp
+repadd eltociear https://github.com/eltociear/mcp-security-audit-action
+-- Connect to Base (x402 endpoints settle in USDC on Base)
+ecocon Base eltociear
