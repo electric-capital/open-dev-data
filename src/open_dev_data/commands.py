@@ -22,10 +22,10 @@ def print_usage() -> None:
 
 Commands:
   validate                 Validate all of the migrations
-      -r, --root DIR       The direction containing the migrations file (default ./migrations)
+      -r, --root DIR       The directory containing the migrations file (default ./migrations)
 
   export                   Export the taxonomy to a json file
-      -r, --root DIR       The direction containing the migrations file (default ./migrations)
+      -r, --root DIR       The directory containing the migrations file (default ./migrations)
       -e, --ecosystem STR  The name of an ecosystem if you only want to export one
       -m, --max-date STR   The maximum date to run migrations until.
                            One can export the taxonomy state at specific past dates with this param.

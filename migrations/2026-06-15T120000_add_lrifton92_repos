@@ -1,0 +1,5 @@
+-- Add Lrifton92 crypto projects to their respective ecosystems
+-- DropRank: Base airdrop score & quest radar mini-app (Base mini-app, OnchainKit/wagmi/viem)
+repadd Base https://github.com/Lrifton92/droprank
+-- ShipQuests: Proof of Ship onchain quests on Celo
+repadd Celo https://github.com/Lrifton92/shipquests

@@ -1,0 +1,3 @@
+-- Add 0xward Celo ecosystem packages
+repadd Celo https://github.com/0xward/nullstate-logic #sdk #npm #typescript #celo #gamefi
+repadd Celo https://github.com/0xward/proofofalpha-core #sdk #npm #typescript #celo #defi #tools
