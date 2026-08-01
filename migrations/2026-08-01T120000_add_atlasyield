@@ -1,0 +1,3 @@
+-- Add AtlasYield -- independent rating and allocation layer for on-chain yield
+ecoadd AtlasYield
+repadd AtlasYield https://github.com/gveshk/atlasyield-score-history
