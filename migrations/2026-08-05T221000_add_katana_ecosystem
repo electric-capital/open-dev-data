@@ -1,0 +1,16 @@
+-- Add Katana, a DeFi-focused Ethereum Layer 2 incubated by Polygon Labs and GSR (katana.network)
+-- Mainnet live since June 2025, KAT token. Repos are original (non-fork) from the katana-network org.
+ecoadd Katana
+ecocon "EVM Compatible Layer 2s" Katana
+repadd Katana https://github.com/katana-network/specialk #developer-tool
+repadd Katana https://github.com/katana-network/kat-token
+repadd Katana https://github.com/katana-network/katana-docs #documentation
+repadd Katana https://github.com/katana-network/tokenlist
+repadd Katana https://github.com/katana-network/network-configs
+repadd Katana https://github.com/katana-network/node-snapshotter
+repadd Katana https://github.com/katana-network/op-forced-tx-script
+repadd Katana https://github.com/katana-network/lz-ops-demo
+repadd Katana https://github.com/katana-network/lz-kat-upgradeable
+repadd Katana https://github.com/katana-network/katana-ai
+repadd Katana https://github.com/katana-network/awesome-katana #community
+repadd Katana https://github.com/katana-network/status
