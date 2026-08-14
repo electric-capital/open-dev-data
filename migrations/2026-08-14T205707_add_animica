@@ -1,0 +1,7 @@
+-- Animica: post-quantum (ML-DSA-65) proof-of-work L1 with deterministic Python
+-- smart contracts, an ANM-native L2 rollup, and an AI/quantum useful-work layer.
+-- https://animica.org | pip install animica
+ecoadd Animica
+repadd Animica https://github.com/animicaorg/all #protocol
+repadd Animica https://github.com/animicaorg/animica-core #protocol
+repadd Animica https://github.com/animicaorg/animica-mcp #developer-tool
