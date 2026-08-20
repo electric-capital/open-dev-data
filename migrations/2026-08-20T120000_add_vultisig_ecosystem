@@ -1,0 +1,112 @@
+-- Add Vultisig, a seedless multi-chain wallet secured by MPC threshold signatures (vultisig.com)
+-- Repos are the original (non-fork) public repos of the github.com/vultisig org, minus vultisig/.github.
+-- Forks (wallet-core, tss-lib, cait-sith, monero-oxide, silent-shard-dkls23-ll, etc.) are excluded.
+-- The 13 vultisig/* repos already in the taxonomy keep their existing chain mappings; this
+-- migration groups them under a single Vultisig ecosystem alongside the 44 that were missing.
+ecoadd Vultisig
+
+-- Category parents, matching how other multi-chain wallets are connected (Trust Wallet, Phantom).
+ecocon "Wallet (Category)" Vultisig
+ecocon "Multichain Infrastructure" Vultisig
+
+-- Chain parents. This is exactly the set of chain ecosystems that already attribute at least one
+-- vultisig/* repo today, so no new chain claims are introduced by this migration.
+ecocon Bitcoin Vultisig
+ecocon Ethereum Vultisig
+ecocon Base Vultisig
+ecocon Solana Vultisig
+ecocon Sui Vultisig
+ecocon Tron Vultisig
+ecocon XRP Vultisig
+ecocon THORChain Vultisig
+ecocon "Cosmos Hub" Vultisig
+ecocon "Cosmos Network Stack" Vultisig
+ecocon TON Vultisig
+ecocon "Polkadot Network" Vultisig
+ecocon Zcash Vultisig
+ecocon Monero Vultisig
+
+-- Client applications
+repadd Vultisig https://github.com/vultisig/vultisig-ios #wallet
+repadd Vultisig https://github.com/vultisig/vultisig-android #wallet
+repadd Vultisig https://github.com/vultisig/vultisig-windows #wallet
+repadd Vultisig https://github.com/vultisig/vultisig-web #wallet
+repadd Vultisig https://github.com/vultisig/vultisig-cli #wallet
+repadd Vultisig https://github.com/vultisig/vulticonnect #wallet
+repadd Vultisig https://github.com/vultisig/vultisig-sdk-old #wallet
+
+-- SDKs, libraries and shared schemas
+repadd Vultisig https://github.com/vultisig/vultisig-sdk #sdk
+repadd Vultisig https://github.com/vultisig/vultisig-go #sdk
+repadd Vultisig https://github.com/vultisig/vultisig-wasm #sdk
+repadd Vultisig https://github.com/vultisig/go-wrappers #library
+repadd Vultisig https://github.com/vultisig/walletcore-spm #library
+repadd Vultisig https://github.com/vultisig/WalletCoreSwiftProtobuf #library
+repadd Vultisig https://github.com/vultisig/commondata #library
+
+-- Threshold signing (MPC) implementations and research
+repadd Vultisig https://github.com/vultisig/mobile-tss-lib #protocol
+repadd Vultisig https://github.com/vultisig/dkls-android #protocol
+repadd Vultisig https://github.com/vultisig/frosty-lib #protocol
+repadd Vultisig https://github.com/vultisig/frost-zcash #protocol
+repadd Vultisig https://github.com/vultisig/tss-director #protocol
+repadd Vultisig https://github.com/vultisig/tss-lib-upgrade #protocol
+repadd Vultisig https://github.com/vultisig/tss-research #protocol
+repadd Vultisig https://github.com/vultisig/test-dkls #developer-tool
+
+-- Backend services
+repadd Vultisig https://github.com/vultisig/vultiserver #protocol
+repadd Vultisig https://github.com/vultisig/vultisig-relay #protocol
+repadd Vultisig https://github.com/vultisig/verifier #protocol
+repadd Vultisig https://github.com/vultisig/notification
+repadd Vultisig https://github.com/vultisig/airdrop-registry
+repadd Vultisig https://github.com/vultisig/defi-circle
+repadd Vultisig https://github.com/vultisig/card-backend
+repadd Vultisig https://github.com/vultisig/referral-back
+
+-- Plugin / app platform
+repadd Vultisig https://github.com/vultisig/plugin
+repadd Vultisig https://github.com/vultisig/plugin-agent
+repadd Vultisig https://github.com/vultisig/plugin-tests #developer-tool
+repadd Vultisig https://github.com/vultisig/app-developer
+repadd Vultisig https://github.com/vultisig/app-recurring
+repadd Vultisig https://github.com/vultisig/app-marketplace
+repadd Vultisig https://github.com/vultisig/feeplugin
+repadd Vultisig https://github.com/vultisig/copytrading
+repadd Vultisig https://github.com/vultisig/recipes
+repadd Vultisig https://github.com/vultisig/vcli #developer-tool
+
+-- Smart contracts
+repadd Vultisig https://github.com/vultisig/vultisig-contract #contracts
+
+-- Developer tooling
+repadd Vultisig https://github.com/vultisig/community-tools #developer-tool
+repadd Vultisig https://github.com/vultisig/vultisig-toolbox #developer-tool
+repadd Vultisig https://github.com/vultisig/android-automation #developer-tool
+repadd Vultisig https://github.com/vultisig/analytics-dashboard #developer-tool
+repadd Vultisig https://github.com/vultisig/homebrew-tap #developer-tool
+
+-- Documentation
+repadd Vultisig https://github.com/vultisig/docs #documentation
+repadd Vultisig https://github.com/vultisig/plugins-docs #documentation
+repadd Vultisig https://github.com/vultisig/docs-plugins #documentation
+repadd Vultisig https://github.com/vultisig/developer-portal #documentation
+
+-- Websites and brand assets
+repadd Vultisig https://github.com/vultisig/website-prod #website
+repadd Vultisig https://github.com/vultisig/vultisig.github.io #website
+repadd Vultisig https://github.com/vultisig/launch-web #website
+repadd Vultisig https://github.com/vultisig/referral-front #website
+repadd Vultisig https://github.com/vultisig/vultiphone #website
+repadd Vultisig https://github.com/vultisig/Branding
+repadd Vultisig https://github.com/vultisig/vultichain
+
+-- LimeChain/vultisig-mono is Vultisig product code ("Vultisig verification and plugin servers"),
+-- written by LimeChain under contract. That engagement ended: the last commit is 2025-05-14 and
+-- LimeChain no longer contributes. It is currently in the taxonomy twice under two casings, and
+-- the Limechain membership rolls the activity up under Polkadot Network.
+-- Merge the case-duplicate into the canonical GitHub casing, drop the stale Limechain membership,
+-- and attribute the repo to Vultisig. The Ethereum membership is left untouched.
+repmov https://github.com/limechain/vultisig-mono https://github.com/LimeChain/vultisig-mono
+reprem Limechain https://github.com/LimeChain/vultisig-mono
+repadd Vultisig https://github.com/LimeChain/vultisig-mono #protocol
