@@ -1,0 +1,7 @@
+-- Add Sieve (Rust P2P Ethereum event indexer) to the OP-Stack ecosystems it now supports.
+-- Already present under Ethereum (migrations/2026-04-08T165859_mutations); not re-added here.
+repadd Base https://github.com/slvDev/sieve #developer-tool #indexer #rust
+repadd Optimism https://github.com/slvDev/sieve #developer-tool #indexer #rust
+repadd Worldcoin https://github.com/slvDev/sieve #developer-tool #indexer #rust
+repadd "Ethereum Virtual Machine Stack" https://github.com/slvDev/sieve #developer-tool #indexer #rust
+repadd "Multichain Infrastructure" https://github.com/slvDev/sieve #developer-tool #indexer #rust
