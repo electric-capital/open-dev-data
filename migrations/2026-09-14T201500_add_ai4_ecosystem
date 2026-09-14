@@ -1,0 +1,5 @@
+-- AI4 (The Singulant): constrained-authority / ai4.constrain public engineering
+-- Canonical repo only. No Solana ecocon (not claimed as Solana sub-ecosystem).
+-- Legacy TheSingulant/ai4-constrained-singularity2 intentionally omitted (historical scaffold).
+ecoadd AI4
+repadd AI4 https://github.com/TheSingulant/ai4-constrain #developer-tool
