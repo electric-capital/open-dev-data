@@ -1,0 +1,6 @@
+-- pkgproof: pay-per-call npm supply-chain verification API for AI agents.
+-- x402 payment gate settling USDC on Algorand Mainnet via GoPlausible.
+-- payTo NE3HBSH4MZLCJ3G5UPYBTIHGRCQ5M7K5N2ROWCBK6EQFR62FEROLBVQTTQ
+-- Algorand Global x402 Challenge entry: https://x402-algo.pkgproof.net
+repadd Algorand https://github.com/jahija-okan/pkgproof-x402-algorand #developer-tool
+repadd Algorand https://github.com/jahija-okan/pkgproof-mcp #developer-tool
