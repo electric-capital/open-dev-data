@@ -1,0 +1,4 @@
+-- GATEWAY: Algorand x402 discovery router + Exact AVM paid APIs (Global x402 Challenge)
+-- Public HTTPS: https://gateway-x402.vercel.app
+-- Merchant payTo: LXPC4GQPYH2EZQX2QDYMHCP2I7MXIZMVRPIYTQ3D7R7HXJ4SIHCSYLF5YA
+repadd Algorand https://github.com/henrysammarfo/gateway-x402 #developer-tool
