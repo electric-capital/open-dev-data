@@ -1,0 +1,6 @@
+-- Add HostDeFi, a Solana DEX + free on-chain token-safety scanner (hostdefi.com)
+-- Submitted by the project (verixiaapps). If you're working in open source crypto, submit your repository here to be counted.
+ecoadd HostDeFi
+ecocon Solana HostDeFi
+repadd HostDeFi https://github.com/verixiaapps/nexus-dex #protocol
+repadd HostDeFi https://github.com/verixiaapps/scam-check-api #developer-tool
