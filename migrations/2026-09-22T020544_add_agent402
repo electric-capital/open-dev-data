@@ -1,0 +1,4 @@
+-- Agent402: open-source x402 seller, router and index (500+ pay-per-call tools), settling USDC on Algorand MainNet
+-- through the GoPlausible facilitator since 2026-07; Algorand x402 Global Challenge entrant (tag x402-global-challenge).
+repadd Algorand https://github.com/MikeyPetrillo/Agent402
+repadd x402 https://github.com/MikeyPetrillo/Agent402
