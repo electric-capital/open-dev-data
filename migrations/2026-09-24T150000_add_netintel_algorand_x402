@@ -1,0 +1,8 @@
+-- NetIntel on Algorand: a pay-per-call intelligence API for AI agents (141 endpoints —
+-- DNS/SSL/WHOIS/IP reputation, web fetch & search, LLM gateway, market data) settling
+-- USDC on Algorand MainNet via x402 through the GoPlausible facilitator.
+-- Algorand Global x402 Challenge entry.
+repadd Algorand https://github.com/kjgueye/netintel-algo
+repadd x402 https://github.com/kjgueye/netintel-algo
+-- netintel-mcp: open-source MCP server whose tools pay NetIntel's x402 endpoints per call.
+repadd x402 https://github.com/kjgueye/netintel-mcp
