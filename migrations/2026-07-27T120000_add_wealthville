@@ -1,0 +1,5 @@
+-- WealthVille: open-source connectors for a Solana LP pool scoring / signal engine.
+-- MCP server (@wealthville/mcp-server), Solana Agent Kit plugin, and ElizaOS plugin.
+-- MIT licensed, TypeScript.
+
+repadd Solana https://github.com/amitesh-m/wealthville-integrations

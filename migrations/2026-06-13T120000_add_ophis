@@ -1,0 +1,22 @@
+-- Add Ophis: intent-based DEX aggregator built on CoW Protocol, with an agent-native layer.
+-- Repo: https://github.com/ophis-fi/ophis (open source).
+-- Create the Ophis project ecosystem and register its repository.
+ecoadd Ophis
+repadd Ophis https://github.com/ophis-fi/ophis "#protocol"
+
+-- Connect Ophis under the ecosystems it builds on / serves.
+-- Ophis self-hosts CoW Protocol settlement on Optimism and routes the other major
+-- chains through the CoW solver network.
+ecocon "Multichain Infrastructure" Ophis
+ecocon "EVM Multichain dApps" Ophis
+ecocon Ethereum Ophis
+ecocon Optimism Ophis
+ecocon Arbitrum Ophis
+ecocon Base Ophis
+ecocon Polygon Ophis
+ecocon Avalanche Ophis
+ecocon BNB Ophis
+ecocon "Gnosis Chain" Ophis
+ecocon Linea Ophis
+ecocon Plasma Ophis
+ecocon Ink Ophis

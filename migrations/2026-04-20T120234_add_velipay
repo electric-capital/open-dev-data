@@ -1,0 +1,3 @@
+repadd "Conflux Network" https://github.com/nickthelegend/veilpay #protocol
+repadd "Conflux Network" https://github.com/nickthelegend/veilpay-matcher #protocol
+repadd "Conflux Network" https://github.com/nickthelegend/veilpay-contracts #protocol

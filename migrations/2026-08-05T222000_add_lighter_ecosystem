@@ -1,0 +1,12 @@
+-- Add Lighter, a zk-rollup perpetuals exchange settling on Ethereum (lighter.xyz)
+-- The elliottech org's earlier lighter v1/v2 repos are already attributed under Arbitrum/Ethereum;
+-- this adds the current zk-rollup stack, which was missing entirely.
+ecoadd Lighter
+ecocon Ethereum Lighter
+repadd Lighter https://github.com/elliottech/lighter-go #developer-tool
+repadd Lighter https://github.com/elliottech/lighter-python #developer-tool
+repadd Lighter https://github.com/elliottech/lighter-prover #protocol
+repadd Lighter https://github.com/elliottech/p3-lighter-circuits #zk-circuit
+repadd Lighter https://github.com/elliottech/lighter-agent-kit #developer-tool
+repadd Lighter https://github.com/elliottech/poseidon_crypto
+repadd Lighter https://github.com/elliottech/lighter-contracts

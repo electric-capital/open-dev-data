@@ -1,0 +1,52 @@
+ecoadd Qubic
+
+-- Protocol / node software
+repadd Qubic https://github.com/qubic/core #protocol
+repadd Qubic https://github.com/qubic/core-lite #protocol
+repadd Qubic https://github.com/qubic/core-bob #protocol
+repadd Qubic https://github.com/qubic/core-docker #protocol
+repadd Qubic https://github.com/qubic/outsourced-computing #protocol
+repadd Qubic https://github.com/qubic/Qiner #protocol
+
+-- Oracles / outsourced computation
+repadd Qubic https://github.com/qubic/oracle-machine #protocol
+repadd Qubic https://github.com/qubic/oc-machine #protocol
+repadd Qubic https://github.com/qubic/oc-mock-service #protocol
+
+-- Network infrastructure
+repadd Qubic https://github.com/qubic/network-guardians #protocol
+
+-- CLI & developer tooling
+repadd Qubic https://github.com/qubic/qubic-cli #tooling
+repadd Qubic https://github.com/qubic/aio-qubic-dev-kit #tooling
+
+-- SDKs & client libraries
+repadd Qubic https://github.com/qubic/Qubic.NET.Toolkit #sdk
+repadd Qubic https://github.com/qubic/go-qubic #sdk
+repadd Qubic https://github.com/qubic/go-node-connector #sdk
+repadd Qubic https://github.com/qubic/go-qubic-nodes #sdk
+repadd Qubic https://github.com/qubic/live-websocket #sdk
+
+-- Wallets
+repadd Qubic https://github.com/qubic/wallet #wallet
+repadd Qubic https://github.com/qubic/wallet-app #wallet
+repadd Qubic https://github.com/qubic/wallet-app-dapp #wallet
+repadd Qubic https://github.com/qubic/wallet-extension #wallet
+repadd Qubic https://github.com/qubic/wallet-extension-dapp #wallet
+repadd Qubic https://github.com/qubic/Qubic.NET.Wallet #wallet
+repadd Qubic https://github.com/qubic/Qubic.NET.Wallet.Mobile #wallet
+
+-- Explorer & dApps
+repadd Qubic https://github.com/qubic/explorer-frontend #explorer
+repadd Qubic https://github.com/qubic/dapps-explorer #explorer
+
+-- Data / archiver / indexing services
+repadd Qubic https://github.com/qubic/go-archiver-v2 #indexer
+repadd Qubic https://github.com/qubic/archive-query-service #indexer
+repadd Qubic https://github.com/qubic/kafka-streams-services #indexer
+repadd Qubic https://github.com/qubic/qubic-aggregation #indexer
+
+-- APIs & backend services
+repadd Qubic https://github.com/qubic/qubic-http #tooling
+repadd Qubic https://github.com/qubic/qubic-stats-service #tooling
+repadd Qubic https://github.com/qubic/qubic-transfer-watcher #tooling

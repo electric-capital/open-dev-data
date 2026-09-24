@@ -1,0 +1,12 @@
+-- Add Stellar ecosystem project repositories
+-- Source: reviewed Stellar submissions marked Valid
+repadd Stellar https://github.com/psyluck/stellar_rail
+repadd Stellar https://github.com/cordyStackX/askverse
+repadd Stellar https://github.com/cordyStackX/cordy_minikit_official
+repadd Stellar https://github.com/Novablitz404/remitt-app
+repadd Stellar https://github.com/Shadowzach142/orbi-wallet
+repadd Stellar https://github.com/FerosC101/rani
+repadd Stellar https://github.com/Tobi-Learns/StellarPay
+repadd Stellar https://github.com/Tobi-Learns/Bakunawa
+repadd Stellar https://github.com/Tobi-Learns/InvoiceFi
+repadd Stellar https://github.com/jemslzr/VoltGuard

@@ -1,0 +1,11 @@
+-- Add Hisoka ecosystem -- full-stack privacy infrastructure for Ethereum
+ecoadd Hisoka
+repadd Hisoka https://github.com/hisoka-io/nox
+repadd Hisoka https://github.com/hisoka-io/nox-sdk
+repadd Hisoka https://github.com/hisoka-io/nox-indexer
+repadd Hisoka https://github.com/hisoka-io/nox-demo
+repadd Hisoka https://github.com/hisoka-io/nox-map
+repadd Hisoka https://github.com/hisoka-io/run-nox
+repadd Hisoka https://github.com/hisoka-io/raven
+repadd Hisoka https://github.com/hisoka-io/inspire-rs
+repadd Hisoka https://github.com/hisoka-io/iSimplePIR

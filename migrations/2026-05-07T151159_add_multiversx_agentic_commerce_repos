@@ -1,0 +1,19 @@
+-- Adds 12 repositories from the multiversx/* org covering MultiversX's
+-- 2025-2026 agentic-commerce work: x402 payments, MCP server, OpenAI ACP
+-- adapter, Google AP2, Agent2Agent + x402 bridge, MultiversX agent standard
+-- (ERC-8004 equivalent), OpenClaw relayer/skills, AI skills knowledge base,
+-- and the Battle of Nodes Supernova scripts. All repos are public,
+-- non-archived, non-fork, and have commits in the last 90 days from core
+-- MultiversX contributors.
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-mcp-server #sdk
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-x402
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-x402-facilitator
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-AP2
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-acp-adapter
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-a2a-x402
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-agent-standard
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-agentic-commerce-tests
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-openclaw-relayer
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-openclaw-skills
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-ai-skills
+repadd "MultiversX (Elrond)" https://github.com/multiversx/mx-bon-supernova-scripts

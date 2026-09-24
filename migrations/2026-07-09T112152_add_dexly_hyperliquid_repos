@@ -1,0 +1,5 @@
+-- Add Dexly (self-custodial Hyperliquid mobile trading app) open-source repositories
+repadd Hyperliquid https://github.com/dexlytrade/hyperliquid-funding-rates
+repadd Hyperliquid https://github.com/dexlytrade/awesome-tokenized-stocks
+repadd Hyperliquid https://github.com/dexlytrade/hyperliquid-spot-screener
+repadd Hyperliquid https://github.com/dexlytrade/awesome-hyperliquid-copy-trading

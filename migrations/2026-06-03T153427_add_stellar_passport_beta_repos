@@ -1,0 +1,23 @@
+-- Stellar Passport Beta repository submissions.
+-- Source: Stellar Passport Beta participant repository list.
+-- Deduplicated against current Stellar ecosystem export and pending TellusCoop migration.
+repadd Stellar https://github.com/Micoh18/Datavend-x402-Stellar
+repadd Stellar https://github.com/Micoh18/Hyphash
+repadd Stellar https://github.com/Micoh18/mycoregenera
+repadd Stellar https://github.com/SCF-Public-Goods-Maintenance/pg-atlas-backend
+repadd Stellar https://github.com/SCF-Public-Goods-Maintenance/pg-atlas-frontend
+repadd Stellar https://github.com/SCF-Public-Goods-Maintenance/pg-atlas-sbom-action
+repadd Stellar https://github.com/SCF-Public-Goods-Maintenance/pg-atlas-ts-sdk
+repadd Stellar https://github.com/SCF-Public-Goods-Maintenance/scf-public-goods-maintenance.github.io
+repadd Stellar https://github.com/SilvaCleverson/stellar_boleto_guardian
+repadd Stellar https://github.com/TryTippa/tippa-contracts
+repadd Stellar https://github.com/aolieman/cfce-monorepo
+repadd Stellar https://github.com/aolieman/komet
+repadd Stellar https://github.com/aolieman/py-stellar-base
+repadd Stellar https://github.com/aolieman/soroban-build-workflow
+repadd Stellar https://github.com/arlettemsalase/BigBlackBox
+repadd Stellar https://github.com/eduruizhipolito/v0-rosen-fi
+repadd Stellar https://github.com/salazarsebas/stellar-explorer
+repadd Stellar https://github.com/samogera/matxchange
+repadd Stellar https://github.com/stellarcarbon/sc-data
+repadd Stellar https://github.com/stellarcarbon/sc-sdk-typescript

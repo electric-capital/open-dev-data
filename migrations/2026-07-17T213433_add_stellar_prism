@@ -1,0 +1,5 @@
+-- Stellar/Soroban projects by Bekir Erdem (Bekirerdem)
+-- Eunomia (formerly PRISM): contract-bounded agent treasury on Stellar/Soroban (Real-World ZK, IBW 2026)
+repadd Stellar https://github.com/eunomia-finance/eunomia
+-- Hazinedar: autonomous treasurer for SMEs on Stellar/Soroban (Build On Stellar, IBW 2026)
+repadd Stellar https://github.com/Bekirerdem/hazinedar

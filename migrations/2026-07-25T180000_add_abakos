@@ -1,0 +1,4 @@
+-- Add the Abakos ecosystem
+ecoadd Abakos
+-- Abakos: zero-fee EVM-compatible Proof-of-Stake compute chain (Akash/Cosmos-SDK fork) with an idle-hardware mining desktop app
+repadd Abakos https://github.com/Abakos-ABA/abakos

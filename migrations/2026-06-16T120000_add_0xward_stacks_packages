@@ -1,0 +1,5 @@
+-- Add 0xward Stacks ecosystem packages
+repadd Stacks https://github.com/0xward/aetheros-core #sdk #npm #typescript #stacks #infrastructure
+repadd Stacks https://github.com/0xward/twinpayai-client #sdk #npm #typescript #stacks #payments #ai
+repadd Stacks https://github.com/0xward/thesisai-sdk #sdk #npm #typescript #stacks #ai #tools
+repadd Stacks https://github.com/0xward/cultos-utils #sdk #npm #typescript #stacks #social #tools

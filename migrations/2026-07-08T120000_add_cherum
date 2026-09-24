@@ -1,0 +1,8 @@
+-- Add the Cherum ecosystem (cross-chain fan-out swap: pay many wallets across chains in one signature, https://cherum.io)
+ecoadd Cherum
+repadd Cherum https://github.com/cherum-io/widget-react #developer-tool
+ecocon Ethereum Cherum
+ecocon Base Cherum
+ecocon Arbitrum Cherum
+ecocon Optimism Cherum
+ecocon Polygon Cherum

@@ -43,7 +43,7 @@ run_cmd() {
 }
 
 validate() {
-    run_cmd open-dev-data validate
+    run_cmd open-dev-data validate "${@}"
 }
 
 export_taxonomy() {
@@ -61,6 +61,7 @@ help() {
 # Main script logic
 case "$1" in
     "validate")
+        shift
         validate "$@"
         ;;
     "export")

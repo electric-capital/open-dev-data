@@ -1,0 +1,49 @@
+-- Add Tempo, an EVM-compatible Layer 1 blockchain purpose-built for payments (tempo.xyz)
+-- Incubated by Stripe and Paradigm. Repos are original (non-fork, non-archived) from the tempoxyz org.
+-- Note: tempoxyz/metrics-derive and tempoxyz/rpc-tester are already tracked (repmov from ithacaxyz), so they are not re-added here.
+ecoadd Tempo
+ecocon "EVM Compatible Layer 1s" Tempo
+repadd Tempo https://github.com/tempoxyz/tempo #protocol
+repadd Tempo https://github.com/tempoxyz/tempo-std
+repadd Tempo https://github.com/tempoxyz/tempo-apps
+repadd Tempo https://github.com/tempoxyz/tempo-go #developer-tool
+repadd Tempo https://github.com/tempoxyz/pytempo #developer-tool
+repadd Tempo https://github.com/tempoxyz/tidx
+repadd Tempo https://github.com/tempoxyz/zones
+repadd Tempo https://github.com/tempoxyz/mpp #protocol
+repadd Tempo https://github.com/tempoxyz/mpp-specs
+repadd Tempo https://github.com/tempoxyz/mpp-rs
+repadd Tempo https://github.com/tempoxyz/mpp-go
+repadd Tempo https://github.com/tempoxyz/pympp
+repadd Tempo https://github.com/tempoxyz/mpp-tools
+repadd Tempo https://github.com/tempoxyz/mpp-irl
+repadd Tempo https://github.com/tempoxyz/mpp-e2b
+repadd Tempo https://github.com/tempoxyz/mpp-proxy-cf
+repadd Tempo https://github.com/tempoxyz/openclaw-mpp
+repadd Tempo https://github.com/tempoxyz/wallet-rs #wallet
+repadd Tempo https://github.com/tempoxyz/wallet-cli #wallet
+repadd Tempo https://github.com/tempoxyz/appkit-wagmi-tempo-wallet #wallet
+repadd Tempo https://github.com/tempoxyz/ledger-app-tempo #wallet
+repadd Tempo https://github.com/tempoxyz/accounts
+repadd Tempo https://github.com/tempoxyz/docs #documentation
+repadd Tempo https://github.com/tempoxyz/examples #documentation
+repadd Tempo https://github.com/tempoxyz/changelogs
+repadd Tempo https://github.com/tempoxyz/tempo-evals
+repadd Tempo https://github.com/tempoxyz/tempo-support
+repadd Tempo https://github.com/tempoxyz/tempo-maybe-pay
+repadd Tempo https://github.com/tempoxyz/txgen #developer-tool
+repadd Tempo https://github.com/tempoxyz/incur-rs
+repadd Tempo https://github.com/tempoxyz/lints
+repadd Tempo https://github.com/tempoxyz/ci
+repadd Tempo https://github.com/tempoxyz/gh-actions
+repadd Tempo https://github.com/tempoxyz/benchmarkoor-replay
+repadd Tempo https://github.com/tempoxyz/export-tempo
+repadd Tempo https://github.com/tempoxyz/cf-template-proxy
+repadd Tempo https://github.com/tempoxyz/tip.bot
+repadd Tempo https://github.com/tempoxyz/pathusd-reserves
+repadd Tempo https://github.com/tempoxyz/agents-tempo-xyz
+repadd Tempo https://github.com/tempoxyz/Tempo-Integrations
+repadd Tempo https://github.com/tempoxyz/bridgerton
+repadd Tempo https://github.com/tempoxyz/frenchy
+repadd Tempo https://github.com/tempoxyz/schelk
+repadd Tempo https://github.com/tempoxyz/skills

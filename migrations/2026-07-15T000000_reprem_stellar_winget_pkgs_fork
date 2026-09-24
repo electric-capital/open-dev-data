@@ -1,0 +1,9 @@
+-- Remove stellar/winget-pkgs from the Stellar ecosystem.
+-- It is a fork of microsoft/winget-pkgs (the Windows Package Manager manifest
+-- repo), created under the Stellar org to publish a package to winget (standard
+-- practice). The fork carries upstream's full contributor history (~1,440 active
+-- developers, 2 stars), inflating Stellar's developer counts with contributors
+-- who do no crypto work. 1,440 of those 1,444 appear in no other Stellar repo.
+-- Consistent with the prior removal of NethermindEth/winget-pkgs from Ethereum
+-- and Nethermind (migration 2025-05-01T112748_mutations).
+reprem Stellar https://github.com/stellar/winget-pkgs
