@@ -1,0 +1,21 @@
+-- ERC-8004 (Trustless Agents): Ethereum agent identity/reputation/validation registries.
+-- The reference contracts are already attributed to Ethereum; this gives the standard
+-- its own sub-ecosystem so cross-chain 8004 tooling has a home. Repos stay attributed
+-- to their chains as before (a repo may belong to several ecosystems).
+ecoadd ERC-8004
+ecocon Ethereum ERC-8004
+repadd ERC-8004 https://github.com/erc-8004/erc-8004-contracts #protocol
+repadd ERC-8004 https://github.com/erc-8004/best-practices
+repadd ERC-8004 https://github.com/QuantuLabs/8004-solana-ts #library
+repadd ERC-8004 https://github.com/cypherpulse/ERC-8004-Trustless-Agents #developer-tool
+
+-- Onchain Agents: umbrella for tooling that builds, pays, identifies or measures
+-- autonomous agents transacting on chain. x402 (already in the taxonomy) and ERC-8004
+-- are its two standards-shaped sub-ecosystems.
+ecoadd "Onchain Agents"
+ecocon "Onchain Agents" x402
+ecocon "Onchain Agents" ERC-8004
+
+-- Sato Hub index: daily-updated, CC-BY-4.0 catalog of the onchain-agent stack
+-- (frameworks, MCP servers, wallets, payment rails, registries) with CITATION.cff.
+repadd "Onchain Agents" https://github.com/satohubai/onchain-agents #developer-tool
