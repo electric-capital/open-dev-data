@@ -1,0 +1,4 @@
+-- GridPulse: pay-per-call U.S. energy market data (EIA grid mix, retail power prices, Henry Hub gas) for AI agents,
+-- settling USDC on Algorand MainNet via x402 and the GoPlausible facilitator (Algorand x402 Global Challenge, tag x402-global-challenge).
+repadd Algorand https://github.com/noah-silver/gridpulse #developer-tool
+repadd x402 https://github.com/noah-silver/gridpulse
