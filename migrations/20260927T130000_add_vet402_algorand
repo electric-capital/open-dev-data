@@ -1,0 +1,2 @@
+-- Added for the Algorand x402 Global Challenge (vet402: pays an x402 endpoint and checks the delivery)
+repadd Algorand https://github.com/kzmttkc/vet402-algorand
