@@ -1,2 +1,5 @@
-ecoadd AuPM
-repadd AuPM https://github.com/TriplEight/AuPM
+-- AuPM: npm-compatible registry overlay; donors pay auditors per reviewed package in USDC on
+-- Algorand MainNet via x402 and the GoPlausible facilitator (Global x402 Challenge).
+repadd Algorand https://github.com/TriplEight/AuPM #developer-tool
+repadd x402 https://github.com/TriplEight/AuPM
+
