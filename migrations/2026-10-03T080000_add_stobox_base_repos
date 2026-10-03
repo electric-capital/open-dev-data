@@ -1,0 +1,3 @@
+-- Stobox Technologies: STBU token and migration claim contracts on Base, DID registry deployed on Base
+repadd Base https://github.com/StoboxTechnologies/stbu-base-contracts #protocol
+repadd Base https://github.com/StoboxTechnologies/Stobox-Decentralized-ID #protocol
