@@ -1,0 +1,7 @@
+-- Hyperliquid client SDKs and tools that were not in the taxonomy yet
+repadd Hyperliquid https://github.com/nktkas/hyperliquid #sdk
+repadd Hyperliquid https://github.com/nomeida/hyperliquid #sdk
+repadd Hyperliquid https://github.com/infinitefield/hypersdk #sdk
+repadd Hyperliquid https://github.com/sonirico/go-hyperliquid #sdk
+repadd Hyperliquid https://github.com/hyperliquid-dex/order_book_server
+repadd Hyperliquid https://github.com/chrisling-dev/hyperliquid-cli #developer-tools
