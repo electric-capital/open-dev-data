@@ -1,0 +1,4 @@
+-- Writz Protocol: trustless Bitcoin lending with zero-knowledge position privacy on Stellar
+ecoadd "Writz Protocol"
+repadd "Writz Protocol" https://github.com/WritzProtocol/writz #protocol #zkp #zk-circuit #dapp
+ecocon Stellar "Writz Protocol"
