@@ -1,0 +1,8 @@
+-- Add Voidpay: an open-source MCP connector and Sessions SDK for an AI-agent services
+-- marketplace by Voidly (https://voidly.ai/pay). Settlement is live on Base, BNB Chain and Robinhood
+-- Chain (Aztec alpha); connected under Base, where the public settlement code lives (see
+-- https://voidly.ai/pay/marketplace/networks.json). Network membership here is not a partnership claim.
+ecoadd Voidpay
+repadd Voidpay https://github.com/voidly-ai/pay-mcp #developer-tool
+repadd Voidpay https://github.com/voidly-ai/session #sdk
+ecocon Base Voidpay
