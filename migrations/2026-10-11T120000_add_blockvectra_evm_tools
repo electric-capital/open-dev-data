@@ -1,0 +1,6 @@
+-- BlockVectra: MIT-licensed public repositories for EVM JSON-RPC and Data API access, for developers and AI agents
+repadd 'Ethereum Virtual Machine Stack' https://github.com/blockvectra/mcp #developer-tool
+repadd 'Ethereum Virtual Machine Stack' https://github.com/blockvectra/skills #developer-tool
+repadd 'Ethereum Virtual Machine Stack' https://github.com/blockvectra/data-api-js #sdk
+repadd 'Ethereum Virtual Machine Stack' https://github.com/blockvectra/multichain-viem #developer-tool
+repadd 'Ethereum Virtual Machine Stack' https://github.com/blockvectra/agent-quickstart #developer-tool
