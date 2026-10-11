@@ -1,0 +1,30 @@
+-- Add active repos from the o1-labs and MinaProtocol orgs that are not yet in the taxonomy,
+-- plus Mina ecosystem repos from zkSecurity and an independent developer.
+repadd "Mina Protocol" https://github.com/o1-labs/circuit-blobs
+repadd "Mina Protocol" https://github.com/o1-labs/community-grants
+repadd "Mina Protocol" https://github.com/o1-labs/hardfork-upgrade-tracking
+repadd "Mina Protocol" https://github.com/o1-labs/mesa-FAQs
+repadd "Mina Protocol" https://github.com/o1-labs/mina-agent
+repadd "Mina Protocol" https://github.com/o1-labs/mina-archive-sdk-go
+repadd "Mina Protocol" https://github.com/o1-labs/mina-archive-sdk-js
+repadd "Mina Protocol" https://github.com/o1-labs/mina-archive-sdk-rust
+repadd "Mina Protocol" https://github.com/o1-labs/mina-docker-registry-cache
+repadd "Mina Protocol" https://github.com/o1-labs/mina-explorer
+repadd "Mina Protocol" https://github.com/o1-labs/mina-helm-charts
+repadd "Mina Protocol" https://github.com/o1-labs/mina-light-node
+repadd "Mina Protocol" https://github.com/o1-labs/mina-multi-sig
+repadd "Mina Protocol" https://github.com/o1-labs/mina-rosetta-sdk-js
+repadd "Mina Protocol" https://github.com/o1-labs/mina-sdk-js
+repadd "Mina Protocol" https://github.com/o1-labs/mina-sdk-rust
+repadd "Mina Protocol" https://github.com/o1-labs/mina-sdk-spec
+repadd "Mina Protocol" https://github.com/o1-labs/toolchain-base-rev-eng
+repadd "Mina Protocol" https://github.com/o1-labs/uptime-service-e2e
+repadd "Mina Protocol" https://github.com/MinaProtocol/mina-build
+repadd "Mina Protocol" https://github.com/MinaProtocol/mina-mcp-server
+repadd "Mina Protocol" https://github.com/MinaProtocol/mina-provision
+repadd "Mina Protocol" https://github.com/MinaProtocol/mina-release-toolkit
+repadd "Mina Protocol" https://github.com/MinaProtocol/mina-verify
+repadd "Mina Protocol" https://github.com/MinaProtocol/submodule-credentials-buildkite-plugin
+repadd zkSecurity https://github.com/zksecurity/mina-guard
+repadd "Mina Protocol" https://github.com/zksecurity/mina-guard
+repadd "Mina Protocol" https://github.com/izzetemredemir/o1js-skills
