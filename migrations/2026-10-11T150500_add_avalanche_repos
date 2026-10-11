@@ -1,0 +1,16 @@
+-- Add active repos from the ava-labs org that are not yet in the taxonomy,
+-- plus an independent Avalanche tool.
+repadd Avalanche https://github.com/ava-labs/8004-boilerplate
+repadd Avalanche https://github.com/ava-labs/avalanche-benchmark
+repadd Avalanche https://github.com/ava-labs/avalanche-deploy
+repadd Avalanche https://github.com/ava-labs/avalanche-indexer
+repadd Avalanche https://github.com/ava-labs/bombard
+repadd Avalanche https://github.com/ava-labs/core-vm-modules
+repadd Avalanche https://github.com/ava-labs/eerc-sdk
+repadd Avalanche https://github.com/ava-labs/firewood-go-ethhash
+repadd Avalanche https://github.com/ava-labs/firn-explorer
+repadd Avalanche https://github.com/ava-labs/helicon-devnet-resources
+repadd Avalanche https://github.com/ava-labs/interchain-kit
+repadd Avalanche https://github.com/ava-labs/platform-cli
+repadd Avalanche https://github.com/ava-labs/reforge
+repadd Avalanche https://github.com/izzetemredemir/markr-go-rescue
