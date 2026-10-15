@@ -1,0 +1,7 @@
+-- Add Chord (https://getchord.xyz), an open-source DEX aggregator: best-route swaps split across DEXs in one non-custodial transaction, with a public API.
+-- The Chord router (0x1b1fee89a381e595fe6536b99ba91f3e16e9601a) is deployed on each chain below.
+repadd Base https://github.com/getchordlabs/chord #protocol
+repadd Monad https://github.com/getchordlabs/chord #protocol
+repadd "BNB Chain" https://github.com/getchordlabs/chord #protocol
+repadd Avalanche https://github.com/getchordlabs/chord #protocol
+repadd Arbitrum https://github.com/getchordlabs/chord #protocol
