@@ -1,0 +1,6 @@
+-- Add QWK Autonomous MEV Infrastructure (https://chase-tqg.github.io/QWIK-MEV-Core/), an open-source multi-chain EVM MEV & Smart Contract Resource Escrow protocol (0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A) backed by $400,000+ in verified enterprise infrastructure commitments (Google Cloud, NVIDIA, Cloudflare).
+repadd Ethereum https://github.com/chase-tqg/QWIK-MEV-Core #protocol
+repadd Base https://github.com/chase-tqg/QWIK-MEV-Core #protocol
+repadd Arbitrum https://github.com/chase-tqg/QWIK-MEV-Core #protocol
+repadd Optimism https://github.com/chase-tqg/QWIK-MEV-Core #protocol
+repadd Polygon https://github.com/chase-tqg/QWIK-MEV-Core #protocol
