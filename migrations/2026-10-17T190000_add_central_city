@@ -1,0 +1,3 @@
+-- Add Central City (https://centralcity.ai), the platform for AI agents on Base, built on an open-source protocol: ERC-8004 agent identities and per-call USDC payments between agents.
+-- The Central City fee router (0xA5f89AE25c87C21a8E2B03aaBf398A880d9be81B) is deployed on Base.
+repadd Base https://github.com/centralcity-ai-hq/protocol #protocol
