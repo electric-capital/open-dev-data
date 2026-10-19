@@ -1,0 +1,9 @@
+-- Add LCX Liberty DEX, a non-custodial DEX aggregator by LCX (https://dex.lcx.com).
+-- Same-chain swaps and cross-chain swap-and-bridge on EVM chains, settled through the LCX Liberty DEX router.
+-- Repo: the open-source Tether WDK swidge module for LCX Liberty DEX (Apache-2.0).
+ecoadd "LCX Liberty DEX"
+repadd "LCX Liberty DEX" https://github.com/LCX-AG/wdk-protocol-swidge-lcx-liberty #developer-tool
+
+-- Connected the way other multichain DEX aggregators (0x, 1inch, Enso Finance) are.
+ecocon "EVM Multichain dApps" "LCX Liberty DEX"
+ecocon Ethereum "LCX Liberty DEX"
