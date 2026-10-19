@@ -1,0 +1,94 @@
+-- Multichain repos with explicit Monad support (chain configs, deployments, adapters)
+
+-- MetaMask Mobile: Monad network + bridge constants (app/constants/network.js, app/constants/bridge.ts)
+repadd Monad https://github.com/MetaMask/metamask-mobile
+-- MetaMask core: Monad network type + RPC (packages/controller-utils/src/constants.ts)
+repadd Monad https://github.com/MetaMask/core
+-- Rabby: Monad chain support (changeLogs/09363.md, changeLogs/09370.md)
+repadd Monad https://github.com/RabbyHub/Rabby
+-- RainbowKit: Monad chain (packages/rainbowkit/src/components/RainbowKitProvider/provideRainbowKitChains.ts)
+repadd Monad https://github.com/rainbow-me/rainbowkit
+-- Zerion: Monad network (src/modules/networks/networks-fallback.json)
+repadd Monad https://github.com/zeriontech/zerion-wallet-extension
+-- Ambire: Monad positions (src/common/utils/generatePositionUrl.ts)
+repadd Monad https://github.com/AmbireTech/extension
+-- OneKey: Monad network (packages/shared/src/utils/perpsUtils.ts)
+repadd Monad https://github.com/OneKeyHQ/app-monorepo
+-- Reown AppKit: monad / monadTestnet networks (apps/laboratory/src/utils/ConstantsUtil.ts)
+repadd Monad https://github.com/reown-com/appkit
+-- Reown examples: Monad EIP-155 chains (wallets/rn_cli_wallet/src/constants/Eip155.ts)
+repadd Monad https://github.com/reown-com/react-native-examples
+-- thirdweb: Monad chain definitions (packages/thirdweb/src/chains/chain-definitions/monad.ts)
+repadd Monad https://github.com/thirdweb-dev/js
+-- Turnkey SDK: Monad RPC (examples/advanced/foundry/foundry.toml)
+repadd Monad https://github.com/tkhq/sdk
+-- Openfort: Monad chain (sdk/src/utils/chains/index.ts)
+repadd Monad https://github.com/openfort-xyz/openfort-js
+-- Coinbase CDP SDK: Monad payment network (python/cdp/openapi_client/models/payment_network.py)
+repadd Monad https://github.com/coinbase/cdp-sdk
+-- Farcaster mini apps: Monad chain in manifest schema (packages/miniapp-core/src/schemas/manifest.ts)
+repadd Monad https://github.com/farcasterxyz/miniapps
+-- Hyperlane: Monad in mainnet3 supported chains (typescript/infra/config/environments/mainnet3/supportedChainNames.ts)
+repadd Monad https://github.com/hyperlane-xyz/hyperlane-monorepo
+-- Hyperlane registry: chains/monad/metadata.yaml
+repadd Monad https://github.com/hyperlane-xyz/hyperlane-registry
+-- Axelar: Monad GMP/ITS deployments (releases/evm/2025-05-Monad-GMP-v6.0.4.md)
+repadd Monad https://github.com/axelarnetwork/axelar-contract-deployments
+-- LayerZero devtools: Monad network (packages/verify-contract/src/common/networks.ts)
+repadd Monad https://github.com/LayerZero-Labs/devtools
+-- Across: Monad chain adapter + addresses (src/consts.ts, broadcast/deployed-addresses.md)
+repadd Monad https://github.com/across-protocol/contracts
+-- Relay: Monad support (packages/ui/CHANGELOG.md)
+repadd Monad https://github.com/relayprotocol/relay-kit
+-- Mayan: Monad CCTP routes (src/cctp.ts)
+repadd Monad https://github.com/mayan-finance/swap-sdk
+-- Tether WDK: USDT0 bridge Monad config (src/config.js)
+repadd Monad https://github.com/tetherto/wdk-protocol-bridge-usdt0-evm
+-- Lombard: Monad deployment (mainnet.json, hardhat.config.ts)
+repadd Monad https://github.com/lombard-finance/evm-smart-contracts
+-- 0x Settler: Monad settlers (src/chains/Monad/Common.sol)
+repadd Monad https://github.com/0xProject/0x-settler
+-- GMX: Monad tokens (sdk/src/configs/tokens.ts)
+repadd Monad https://github.com/gmx-io/gmx-interface
+-- Merkl: Monad deployment (deployments/upgrade-270126/monad-deployment.log)
+repadd Monad https://github.com/AngleProtocol/merkl-contracts
+-- Summer.fi: Monad deployments (sdk/armada-protocol-common/src/deployments/sumr.json)
+repadd Monad https://github.com/OasisDEX/summerfi-monorepo
+-- vfat: Monad farms (src/static/js/monad.js)
+repadd Monad https://github.com/vfat-io/vfat-tools
+-- Yearn risk score: Monad chain id 143 (src/lib/icons.ts)
+repadd Monad https://github.com/yearn/risk-score
+-- OpenSea SDK: Monad chain (src/utils/chain.ts)
+repadd Monad https://github.com/ProjectOpenSea/opensea-sdk
+-- Aragon: Monad network (src/types/networks.ts)
+repadd Monad https://github.com/aragon/app-backend
+-- Stork oracle: Monad network (chains/evm/contracts/stork/hardhat.config.ts)
+repadd Monad https://github.com/Stork-Oracle/stork-external
+-- DefiLlama: Monad protocol adapters (projects/shmonad, projects/lemonad, ...)
+repadd Monad https://github.com/DefiLlama/DefiLlama-Adapters
+-- DefiLlama: Monad fees adapters (fees/monad/index.ts, fees/shmonad/index.ts)
+repadd Monad https://github.com/DefiLlama/dimension-adapters
+-- DefiLlama: Monad yield adaptors (src/adaptors/shmonad, src/adaptors/kintsu)
+repadd Monad https://github.com/DefiLlama/yield-server
+-- Chain registry: Monad chain ids (_data/chains/eip155-143.json, eip155-10143.json)
+repadd Monad https://github.com/ethereum-lists/chains
+-- Trust Wallet assets: blockchains/monad/
+repadd Monad https://github.com/trustwallet/assets
+-- Subsquid Pipes: Monad network (packages/pipes-cli/src/commands/init/config/networks.ts)
+repadd Monad https://github.com/subsquid/pipes-sdk
+-- Graph Node: Monad RPC error handling (chain/ethereum/src/ethereum_adapter.rs)
+repadd Monad https://github.com/graphprotocol/graph-node
+-- Ponder: Monad getLogs retry handling (packages/utils/src/getLogsRetryHelper.ts)
+repadd Monad https://github.com/ponder-sh/ponder
+-- dRPC dshackle: Monad mainnet/testnet upstreams (upstream/ethereum/EthereumUpstreamSettingsDetector.kt)
+repadd Monad https://github.com/drpcorg/dshackle
+-- Chainstack: Monad RPC docs (docs/monad-tooling.mdx, reference/monad-*.mdx)
+repadd Monad https://github.com/chainstack/dev-portal
+-- OpenZeppelin Guardian: Monad chain config (config/evm/chains.json)
+repadd Monad https://github.com/OpenZeppelin/guardian
+-- aomi: Monad chains (packages/client/src/chains.ts)
+repadd Monad https://github.com/aomi-labs/aomi
+-- Primus: Monad event integration (src/pages/Background/lumaMonadEvent/index.js)
+repadd Monad https://github.com/primus-labs/primus-extension
+-- xln: Monad as EVM backend (core/types/xlnomy.ts)
+repadd Monad https://github.com/xlnfinance/xln
