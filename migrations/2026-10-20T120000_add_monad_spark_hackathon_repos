@@ -1,0 +1,7 @@
+-- Monad Spark hackathon (buildanything.so, submitted 2026-07-14 to 2026-07-19)
+-- 278 unique repos submitted; 251 already in the taxonomy (mostly 2026-07-15T124336_auto_add_monad_repos),
+-- 1 already present under its renamed URL, 21 return 404, 1 has no Monad code or contract. Remaining 4 below.
+repadd Monad https://github.com/caginonthesky/3d-model-passport
+repadd Monad https://github.com/0xjiongying00/monad-robotics-os
+repadd Monad https://github.com/techAlhaji/proofpal-ai
+repadd Monad https://github.com/0xbatman69/rescuekit
