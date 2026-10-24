@@ -1,0 +1,6 @@
+-- Name the Biribi project around its existing public MIT-licensed contracts repository.
+-- Website and risk disclosures: https://biribi.net/infrastructure
+-- Existing direct repository attributions are intentionally preserved.
+ecoadd Biribi
+repadd Biribi https://github.com/BiribiNet/contracts
+ecocon Arbitrum Biribi
