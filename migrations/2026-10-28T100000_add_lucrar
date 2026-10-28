@@ -1,0 +1,6 @@
+-- Lucrar: Portuguese financial-education project on BNB Smart Chain.
+-- Website: https://lucrar.pt  Token: LCR 0x1510211E6DC81F5724A1BecA33C5AC70Dcca6CE0
+ecoadd Lucrar
+ecocon "BNB Chain" Lucrar
+repadd Lucrar https://github.com/workolic/blockclock #developer-tool
+repadd Lucrar https://github.com/workolic/lucrar-whitepaper #documentation
