@@ -1,0 +1,8 @@
+-- BlazePhoenix: MIT-licensed MCP server docs and HTTP API source for the on-chain DEX aggregator.
+-- Website: https://blazephoenix.xyz
+-- The SDK and DEX repositories are already in the taxonomy; this adds the two missing MIT repositories.
+repadd Base https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp #ai #defi #developer-tool
+repadd Arbitrum https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp #ai #defi #developer-tool
+repadd Optimism https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp #ai #defi #developer-tool
+repadd "Robinhood Chain" https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp #ai #defi #developer-tool
+repadd Base https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-API #defi #typescript
