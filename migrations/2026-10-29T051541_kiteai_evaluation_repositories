@@ -1,0 +1,11 @@
+-- Add public AI-assisted evaluation repositories maintained under one operator to KiteAI
+repadd KiteAI https://github.com/agitatedcrit/kite-dotnet-payments
+repadd KiteAI https://github.com/sillygrief/kite-passport-runtime
+repadd KiteAI https://github.com/assuredpens/kite-payment-ledger
+repadd KiteAI https://github.com/ordinaryleggi/kite-merchant-console
+repadd KiteAI https://github.com/legitimategro/kite-x402-testkit
+repadd KiteAI https://github.com/stridentpann/kite-a2a-live-driver
+repadd KiteAI https://github.com/windingbuff/kite-paid-jobs
+repadd KiteAI https://github.com/inbornemu/kite-browser-api
+repadd KiteAI https://github.com/artisticsmo/kite-document-api
+repadd KiteAI https://github.com/agitatedcrit/kite-data-query
