@@ -1,0 +1,7 @@
+-- Seeryx: non-custodial prediction market on Solana (https://seeryx.com) with its own central limit order book,
+-- native USDC settlement and UMA Optimistic Oracle answers relayed to Solana through Wormhole.
+-- Developer docs: https://seeryx.com/developers
+ecoadd Seeryx
+ecocon Solana Seeryx
+repadd Seeryx https://github.com/Seeryx/seeryx-python #sdk
+repadd Seeryx https://github.com/Seeryx/seeryx-rust #sdk
