@@ -1,7 +1,7 @@
--- Robinhood Chain (chain id 4663, an Arbitrum Orbit chain): 170 repositories found since 2026-10-14T002652_add_robinhood_chain.
+-- Robinhood Chain (chain id 4663, an Arbitrum Orbit chain): 178 repositories found since 2026-10-14T002652_add_robinhood_chain.
 -- Repositories from HEY Research Lab's public builder record (https://heyresearch.xyz), 2026-10-31:
 -- official GitHub repositories of Verified Builders with Robinhood Chain evidence, minus repositories
--- this taxonomy already lists, minus multichain integrators, and no forks.
+-- this taxonomy already files under another project's ecosystem, minus multichain integrators, and no forks.
 -- Every repository resolves on HEY at https://heyresearch.xyz/project/<slug>; nothing here is an endorsement.
 repadd "Robinhood Chain" https://github.com/aarav1656/signet
 repadd "Robinhood Chain" https://github.com/AaroneGeorge/ouroboros-press
@@ -25,11 +25,15 @@ repadd "Robinhood Chain" https://github.com/bankrwrapped/wrapped
 repadd "Robinhood Chain" https://github.com/bigrceo/hush
 repadd "Robinhood Chain" https://github.com/BLACKVEILfi/blackveil
 repadd "Robinhood Chain" https://github.com/Blanksite/flatworld
+repadd "Robinhood Chain" https://github.com/blockvectra/agent-quickstart
+repadd "Robinhood Chain" https://github.com/blockvectra/data-api-js
+repadd "Robinhood Chain" https://github.com/blockvectra/mcp
 repadd "Robinhood Chain" https://github.com/bloomlaunch/bloomlaunch
 repadd "Robinhood Chain" https://github.com/Borro-Markets/contracts
 repadd "Robinhood Chain" https://github.com/buildoriel/Oriel
 repadd "Robinhood Chain" https://github.com/caponer-ai/bell
 repadd "Robinhood Chain" https://github.com/CarbonizedLab/carbonized
+repadd "Robinhood Chain" https://github.com/chainswarm/chain-insights
 repadd "Robinhood Chain" https://github.com/clebson-scott/zeus-guard
 repadd "Robinhood Chain" https://github.com/Cognita-Robinhood-Chain/Cognita
 repadd "Robinhood Chain" https://github.com/coroner-hash/ai
@@ -94,12 +98,14 @@ repadd "Robinhood Chain" https://github.com/LincolnProtocol-com/Lincoln-protocol
 repadd "Robinhood Chain" https://github.com/luminaryRH/Luminary-stack
 repadd "Robinhood Chain" https://github.com/LW-ARTS/RobinHidden
 repadd "Robinhood Chain" https://github.com/lyan88/robinhood-pool-screener
+repadd "Robinhood Chain" https://github.com/madebyshun/blue-agent
 repadd "Robinhood Chain" https://github.com/Mallyajit/Ravelin
 repadd "Robinhood Chain" https://github.com/mavrkofficial/quotrons-brand-kit
 repadd "Robinhood Chain" https://github.com/meji0900/parkinson
 repadd "Robinhood Chain" https://github.com/MeMikko/musetown-dashboard
 repadd "Robinhood Chain" https://github.com/MirakoolDev/sherwood
 repadd "Robinhood Chain" https://github.com/mumbooth/mumbooth
+repadd "Robinhood Chain" https://github.com/myreceiptt/transient-contract-manager
 repadd "Robinhood Chain" https://github.com/Node1-Git/robinhood-benchmark
 repadd "Robinhood Chain" https://github.com/norenagent/noren
 repadd "Robinhood Chain" https://github.com/noumenlabs/noumen-cursor
@@ -122,7 +128,9 @@ repadd "Robinhood Chain" https://github.com/Pippin-Robinhood/pippin-contracts
 repadd "Robinhood Chain" https://github.com/PolydashDev/Polydash
 repadd "Robinhood Chain" https://github.com/Project-DSpace/darwin-node
 repadd "Robinhood Chain" https://github.com/qskateboard/robinhood-feed-bench
+repadd "Robinhood Chain" https://github.com/QuoroExchange/quoro
 repadd "Robinhood Chain" https://github.com/ramakrishnanhulk20/eri
+repadd "Robinhood Chain" https://github.com/ranaalyan1/avaira.xyz
 repadd "Robinhood Chain" https://github.com/Rea-Fund/hook
 repadd "Robinhood Chain" https://github.com/robert-schmidt/rhnode
 repadd "Robinhood Chain" https://github.com/robertocarlous/Custos
