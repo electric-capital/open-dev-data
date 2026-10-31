@@ -1,0 +1,33 @@
+-- Robinhood Chain housekeeping: 30 repositories from 2026-10-14T002652_add_robinhood_chain that no longer exist.
+-- Each answered 404 on the GitHub API (repos/<owner>/<repo>, read twice) and on github.com on 2026-10-31;
+-- a renamed or transferred repository redirects and is not removed here.
+reprem 'Robinhood Chain' https://github.com/0pen-Zaps/openzaps
+reprem 'Robinhood Chain' https://github.com/AdamNakamoto/courierworld
+reprem 'Robinhood Chain' https://github.com/Alnasarmasarhtml/hoodtext
+reprem 'Robinhood Chain' https://github.com/blackvaultwallet/Blackvault-App
+reprem 'Robinhood Chain' https://github.com/brendazure/robinhood-meme-token-stock-launchpad
+reprem 'Robinhood Chain' https://github.com/devclone20/cloneframe_app_executable
+reprem 'Robinhood Chain' https://github.com/devclone20/iclone
+reprem 'Robinhood Chain' https://github.com/devclone20/iIrysframe
+reprem 'Robinhood Chain' https://github.com/Hashdevlol/hatch-contracts
+reprem 'Robinhood Chain' https://github.com/JermWang/airtime
+reprem 'Robinhood Chain' https://github.com/JustStillhere/RH-TreadBot
+reprem 'Robinhood Chain' https://github.com/kinexbtdev/rh-agent-trader
+reprem 'Robinhood Chain' https://github.com/kinexbtdev/rh-chain-cookbook
+reprem 'Robinhood Chain' https://github.com/kinexbtdev/rh-indexer
+reprem 'Robinhood Chain' https://github.com/kinexbtdev/rh-stock-token-kit
+reprem 'Robinhood Chain' https://github.com/kinexbtdev/rh-swap
+reprem 'Robinhood Chain' https://github.com/LandoCrissian/rmt-transparency
+reprem 'Robinhood Chain' https://github.com/LandoCrissian/robinhood-meme-terminal
+reprem 'Robinhood Chain' https://github.com/Madhav-Gupta-28/Aarka
+reprem 'Robinhood Chain' https://github.com/muratmula/ai-robinhood-chain
+reprem 'Robinhood Chain' https://github.com/MyWestLord/stockcoin
+reprem 'Robinhood Chain' https://github.com/Nekt-0/rumzo
+reprem 'Robinhood Chain' https://github.com/pablooalonnso-web/claudemaxing5
+reprem 'Robinhood Chain' https://github.com/RedCarpetHQ/contracts
+reprem 'Robinhood Chain' https://github.com/SecondedOracle/seconded-mcp-releases
+reprem 'Robinhood Chain' https://github.com/stonkhousedotfun/callhouse
+reprem 'Robinhood Chain' https://github.com/takeshiiko/case-flip
+reprem 'Robinhood Chain' https://github.com/Thorsten02041973/robinhood-cli
+reprem 'Robinhood Chain' https://github.com/wealthy-org/Damkeeper
+reprem 'Robinhood Chain' https://github.com/zerodevid/Quiver
