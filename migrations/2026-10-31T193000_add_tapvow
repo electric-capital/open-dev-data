@@ -1,0 +1,8 @@
+-- TapVow: MIT-licensed local gateway that puts one signed spending limit in front of every AI agent,
+-- enforces it on each paid call, and records a tamper-evident receipt for each charge and refusal.
+-- The same budget covers LLM calls and x402 payments; it never holds funds.
+-- Source: https://github.com/theluckystrike/tapvow
+-- Tagged #x402; attached to Base because x402 is the payment rail it meters.
+ecoadd TapVow
+repadd TapVow https://github.com/theluckystrike/tapvow #developer-tool #x402
+ecocon Base TapVow
