@@ -1,0 +1,4 @@
+-- Provian: self-custodial agent wallets and verifiable work records on Base
+ecoadd Provian
+repadd Provian https://github.com/LongevityManiac/provian #protocol
+ecocon Base Provian
