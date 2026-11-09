@@ -1,0 +1,15 @@
+-- BSVKey: open source Bitcoin SV applications and libraries (https://bsvkey.com).
+-- Every repository below is original work, not a fork, and uses or anchors on Bitcoin SV.
+ecoadd BSVKey
+repadd BSVKey https://github.com/BSVKey/inference-mcp
+repadd BSVKey https://github.com/BSVKey/bsvkey-grok-plugin
+repadd BSVKey https://github.com/BSVKey/x402-paywall
+repadd BSVKey https://github.com/BSVKey/x402-bsv-client
+repadd BSVKey https://github.com/BSVKey/keyauth
+repadd BSVKey https://github.com/BSVKey/bsvkey-names-extension
+repadd BSVKey https://github.com/BSVKey/dtn-custody-demo
+repadd BSVKey https://github.com/BSVKey/open-downlink-custody
+repadd BSVKey https://github.com/BSVKey/needs-custody
+repadd BSVKey https://github.com/BSVKey/elf-link
+repadd BSVKey https://github.com/BSVKey/bsvkey-axiom-proofs
+ecocon "Bitcoin SV" BSVKey
