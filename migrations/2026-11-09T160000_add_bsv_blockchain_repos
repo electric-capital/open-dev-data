@@ -1,0 +1,20 @@
+-- Original (non-fork) repositories of the bsv-blockchain organization that are
+-- not yet in the taxonomy. Selected for software with commits since August 2026.
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/ts-stack
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/dpp
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/broadcaster
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/tx-gen
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/go-overlay-services
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/go-bsv-middleware
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/go-message-box-server
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/go-uhrp-storage-server
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/go-402-pay
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/teranode-quickstart
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/teranode-operator
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/teranode-operator-helm
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/bsv-node-exporter
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/bsv-address-tracker
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/bsv-wallet
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/py-wallet-toolbox
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/py-middleware
+repadd 'Bitcoin SV' https://github.com/bsv-blockchain/402-extension
