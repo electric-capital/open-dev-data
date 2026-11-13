@@ -1,0 +1,3 @@
+-- Add the public Duskmoth SDK and documentation to Solana.
+repadd Solana https://github.com/duskmoth-dev/duskmoth-sdk
+repadd Solana https://github.com/duskmoth-dev/duskmoth-docs
