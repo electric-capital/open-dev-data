@@ -1,0 +1,2 @@
+-- Add kite-x402-conformance: black-box conformance checker for x402 paid APIs on the Kite chain
+repadd KiteAI https://github.com/emptytouch/kite-x402-conformance
