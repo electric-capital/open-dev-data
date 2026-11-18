@@ -1,0 +1,2 @@
+-- Add the original KiteAI agent payment audit and reconciliation tool.
+repadd KiteAI https://github.com/yuzhiyang1/kite-agent-ledger
