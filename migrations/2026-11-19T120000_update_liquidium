@@ -1,0 +1,15 @@
+-- Liquidium: lending on native Bitcoin (https://liquidium.fi, https://liquidium.wtf)
+-- Submitted by the project (Liquidium-Inc).
+-- The project's name is Liquidium; "Liquidium Finance" was never used.
+ecomov "Liquidium Finance" Liquidium
+-- Liquidium started on Stacks but has had no Stacks product since 2023.
+-- Its products run on Bitcoin and the Internet Computer.
+ecodis Stacks Liquidium
+ecocon Bitcoin Liquidium
+-- Old repo no longer exists.
+reprem Liquidium https://github.com/petehodl/Liquidium-Public
+repadd Liquidium https://github.com/Liquidium-Inc/liquidium-sdk #sdk
+repadd Liquidium https://github.com/Liquidium-Inc/liquidium-tui #developer-tool
+repadd Liquidium https://github.com/Liquidium-Inc/liquidium-yield
+repadd Liquidium https://github.com/Liquidium-Inc/liquidium-recovery-tool
+repadd Liquidium https://github.com/Liquidium-Inc/LiquidiumWTF-interest-calculator
