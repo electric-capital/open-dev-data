@@ -1,0 +1,5 @@
+-- Sjothr: protocol where a company tokenizes its business and raises capital in USDC on Base.
+-- Website: https://sjothr.xyz
+ecoadd Sjothr
+repadd Sjothr https://github.com/Djangode/sjothr-mcp #developer-tool
+ecocon Base Sjothr
