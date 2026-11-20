@@ -1,0 +1,5 @@
+-- ICARE Arena: prediction markets on live streamer esports games, settled by an AI referee with an on-chain proof (Base Sepolia).
+-- Website: https://www.icarehub.xyz
+ecoadd "ICARE Arena"
+repadd "ICARE Arena" https://github.com/Djangode/icare-mcp #dapp #x402
+ecocon Base "ICARE Arena"
