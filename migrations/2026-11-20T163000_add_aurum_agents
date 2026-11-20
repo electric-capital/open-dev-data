@@ -1,0 +1,3 @@
+ecoadd "AURUM AGENTS"
+repadd "AURUM AGENTS" https://github.com/prasadreddys/aurum-agents #nft
+ecocon "BNB Chain" "AURUM AGENTS"
