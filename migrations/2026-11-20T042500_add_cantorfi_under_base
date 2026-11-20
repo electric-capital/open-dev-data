@@ -1,0 +1,6 @@
+-- CantorFi: lending protocol on Base made of isolated vaults (developer preview on Base Sepolia).
+-- Website: https://www.cantorfi.xyz
+ecoadd CantorFi
+repadd CantorFi https://github.com/cantorfi/liquidation-bot #defi
+repadd CantorFi https://github.com/cantorfi/cantorfi-mcp #developer-tool
+ecocon Base CantorFi
