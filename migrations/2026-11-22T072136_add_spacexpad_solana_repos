@@ -1,0 +1,4 @@
+-- Official SpaceXpad repositories (https://spacexpad.xyz).
+-- SpaceXpad is a Solana project and is independent of SpaceX.
+repadd Solana https://github.com/spacexpad/spacexpad
+repadd Solana https://github.com/spacexpad/agent-wallet
