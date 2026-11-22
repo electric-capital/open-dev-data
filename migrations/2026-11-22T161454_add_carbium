@@ -1,0 +1,13 @@
+-- Add Carbium, Solana developer services at services.carbium.sh (https://carbium.sh).
+-- SDKs for TypeScript, Python, Rust and Go, a command line tool, an MCP server, an agent plugin,
+-- spec files, a cookbook and starter projects, all under github.com/carbium-sh.
+ecoadd Carbium
+ecocon Solana Carbium
+repadd Carbium https://github.com/carbium-sh/carbium-js #sdk #developer-tool
+repadd Carbium https://github.com/carbium-sh/carbium-py #sdk
+repadd Carbium https://github.com/carbium-sh/carbium-rs #sdk
+repadd Carbium https://github.com/carbium-sh/carbium-go #sdk
+repadd Carbium https://github.com/carbium-sh/spec #developer-tool
+repadd Carbium https://github.com/carbium-sh/skills #developer-tool
+repadd Carbium https://github.com/carbium-sh/cookbook #developer-tool
+repadd Carbium https://github.com/carbium-sh/starters #developer-tool
