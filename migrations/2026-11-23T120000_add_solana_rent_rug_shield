@@ -1,0 +1,6 @@
+-- Solana Rent & Rug Shield: Non-custodial Solana 12-layer token rug scanner, Layer 9 Inner CPI drainer simulator, empty ATA rent recovery, and MCP server (https://rentandrugshield.com)
+ecoadd "Solana Rent & Rug Shield"
+ecocon Solana "Solana Rent & Rug Shield"
+repadd "Solana Rent & Rug Shield" https://github.com/sonnyman2014/rentandrugshield
+repadd "Solana Rent & Rug Shield" https://github.com/sonnyman2014/solana-rent-rug-shield-mcp
+repadd "Solana Rent & Rug Shield" https://github.com/sonnyman2014/solana-rug-audit-benchmark
