@@ -1,0 +1,7 @@
+-- Gem Wallet moved from gem-ios / gem-android / core (archived 2026) to the gemwalletcom/wallet monorepo
+repadd Bitcoin https://github.com/gemwalletcom/wallet #wallet
+repadd Ethereum https://github.com/gemwalletcom/wallet #wallet
+repadd Solana https://github.com/gemwalletcom/wallet #wallet
+repadd TON https://github.com/gemwalletcom/wallet #wallet
+repadd Tron https://github.com/gemwalletcom/wallet #wallet
+repadd Sui https://github.com/gemwalletcom/wallet #wallet
