@@ -1,0 +1,6 @@
+-- Latheon: zero-knowledge privacy protocol (shielded pools with selective disclosure), open source (MIT).
+-- Runs on its own Arbitrum Orbit test chain (chain ID 60531373273, settles to Arbitrum Sepolia). Website: https://latheon.xyz
+ecoadd Latheon
+repadd Latheon https://github.com/latheon-network/Latheon #protocol #zkp #zk-circuit #privacy
+repadd Latheon https://github.com/latheon-network/l2-eval-ci #infrastructure #testnet
+ecocon Arbitrum Latheon
